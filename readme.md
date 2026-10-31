@@ -533,7 +533,7 @@ Only include datasets and screenshots that you actually publish. If CSV
 files are not included, document how the report's source data is made
 available.
 
-## 10. How to Use
+## 9. How to Use
 
 1.  Clone or download the repository.
 2.  Open `Real_Estate_Market_Trends.pbix` in Power BI Desktop.
@@ -542,7 +542,7 @@ available.
 4.  Refresh the data.
 5.  Explore the four report pages and use their slicers.
 
-## 11. Project Outcome
+## 10. Project Outcome
 
 The completed report demonstrates a multi-table Power BI workflow: data
 import, relationship modeling, a shared Date dimension, DAX measures,
