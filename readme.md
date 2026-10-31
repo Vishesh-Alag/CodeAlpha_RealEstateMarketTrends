@@ -5,6 +5,16 @@ BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoCo
 ![DAX](https://img.shields.io/badge/Analytics-DAX-blue)
 ![Project](https://img.shields.io/badge/Project-Real%20Estate%20Market%20Trends-success)
 
+<img width="1432" height="796" alt="image" src="https://github.com/user-attachments/assets/780fdae3-4bc4-4684-adef-d97870b8f248" />
+
+<img width="1431" height="796" alt="image" src="https://github.com/user-attachments/assets/b7577916-5557-4b19-b0f9-bc2ecd690fe0" />
+
+<img width="1437" height="808" alt="image" src="https://github.com/user-attachments/assets/aca98e4b-d2c5-4ef5-98f8-6aab1e723f9f" />
+
+<img width="1432" height="791" alt="image" src="https://github.com/user-attachments/assets/5720c379-5e52-4912-93b7-8f53375df145" />
+
+
+
 ## 1. Project Overview
 
 A four-page interactive Power BI report developed for the CodeAlpha
@@ -518,24 +528,6 @@ COUNTROWS(
 -   CSV datasets
 -   Microsoft Bing map visual
 
-## 9. Suggested Repository Structure
-
-``` text
-Real-Estate-Market-Trends-PowerBI/
-├── data/
-│   ├── realestate_locations.csv
-│   ├── realestate_properties.csv
-│   ├── realestate_market_snapshots.csv
-│   ├── realestate_rental_records.csv
-│   └── realestate_economic_indicators.csv
-├── screenshots/
-│   ├── page-1-market-overview.png
-│   ├── page-2-trends-demand-rental-yield.png
-│   ├── page-3-geographic-hotspots-economic-context.png
-│   └── page-4-investment-signals-performance-analysis.png
-├── Real_Estate_Market_Trends.pbix
-└── README.md
-```
 
 Only include datasets and screenshots that you actually publish. If CSV
 files are not included, document how the report's source data is made
