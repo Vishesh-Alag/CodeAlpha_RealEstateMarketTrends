@@ -17,8 +17,7 @@ BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoCo
 
 ## 1. Project Overview
 
-A four-page interactive Power BI report developed for the CodeAlpha
-Power BI virtual internship task. It analyses a **synthetic**
+A four-page interactive Power BI report developed for the. It analyses a **synthetic**
 real-estate dataset to explore property inventory, listed prices, price
 per square foot, rental yields, estimated market values, demand and
 supply indices, new listings, reported transaction counts, geographic
