@@ -1,0 +1,13 @@
+LocationID,City,State,Latitude,Longitude,BaselineRentalYieldPct,InfrastructureScore,MarketTier
+L001,Dehradun,Uttarakhand,30.3165,78.0322,5.5,9,Medium
+L002,Delhi,Delhi,28.6139,77.209,4.0,7,Medium
+L003,Noida,Uttar Pradesh,28.5355,77.391,4.8,9,Medium
+L004,Gurugram,Haryana,28.4595,77.0266,5.0,9,Medium
+L005,Bengaluru,Karnataka,12.9716,77.5946,4.5,8,Low
+L006,Hyderabad,Telangana,17.385,78.4867,4.7,7,High
+L007,Pune,Maharashtra,18.5204,73.8567,4.6,6,High
+L008,Mumbai,Maharashtra,19.076,72.8777,3.8,7,Medium
+L009,Chandigarh,Chandigarh,30.7333,76.7794,4.3,6,Low
+L010,Jaipur,Rajasthan,26.9124,75.7873,5.2,7,Low
+L011,Lucknow,Uttar Pradesh,26.8467,80.9462,5.4,5,Medium
+L012,Ahmedabad,Gujarat,23.0225,72.5714,4.9,7,Medium

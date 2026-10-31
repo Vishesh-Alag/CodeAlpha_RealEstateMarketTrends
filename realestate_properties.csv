@@ -1,0 +1,851 @@
+PropertyID,ListingID,ProjectName,LocationID,PropertyType,AreaSqFt,PropertyAgeYears,ListedPriceINR,PricePerSqFtINR,ConstructionStatus,ListingStatus,Bedrooms,PrimaryAmenity,OwnershipType,OwnerName,ListingAgentName
+P00001,PROP-100000,Silver Heights,L009,Apartment,1430,8,14359998.0,10041.96,Ready to Move,Rented,1,Lift,Freehold,Ayesha Pillai,Aman Jain
+P00002,PROP-100001,Orchid Enclave,L001,Independent House,2003,2,23129566.0,11547.46,Ready to Move,Rented,5,Security,Leasehold,Simran Rawat,Ananya Kapoor
+P00003,PROP-100002,Green Homes,L001,Apartment,1356,10,14784994.0,10903.39,Ready to Move,Available,3,Garden,Co-operative,Siddharth Saxena,Shreya Chatterjee
+P00004,PROP-100003,Lake Homes,L012,Apartment,1962,30,17058827.0,8694.61,Ready to Move,Available,2,Parking,Freehold,Vivaan Mukherjee,Rohan Bhatia
+P00005,PROP-100004,Cedar Enclave,L002,Apartment,1419,2,9517212.0,6706.99,Under Construction,Under Construction,2,Clubhouse,Co-operative,Radhika Kashyap,Shalini Kulkarni
+P00006,PROP-100005,Sunrise Residency,L001,Commercial,1268,3,13477773.0,10629.16,New Launch,Available,5,Security,Co-operative,Siddharth Shah,Sanjay Kashyap
+P00007,PROP-100006,Lake Gardens,L001,Apartment,850,2,3408868.0,4010.43,Resale,Available,3,Lift,Co-operative,Aanya Sinha,Divya Rawat
+P00008,PROP-100007,River Enclave,L008,Apartment,618,1,10119925.0,16375.28,Resale,Available,2,Lift,Freehold,Aman Kashyap,Juhi Sethi
+P00009,PROP-100008,Green Heights,L007,Villa,2442,30,31700896.0,12981.53,New Launch,Under Construction,5,Parking,Freehold,Swati Shah,Mohit Shetty
+P00010,PROP-100009,Sunrise Enclave,L002,Apartment,841,8,14298314.0,17001.56,Ready to Move,Rented,5,Parking,Freehold,Pooja Pawar,Divya Tripathi
+P00011,PROP-100010,Green Gardens,L009,Plot,1004,3,4063544.0,4047.36,Resale,Available,4,Lift,Freehold,Sara Kashyap,Nandini Patel
+P00012,PROP-100011,Cedar Plaza,L005,Independent House,2181,0,17803166.0,8162.85,Ready to Move,Available,4,Parking,Co-operative,Arjun Menon,Madhav Ghosh
+P00013,PROP-100012,Palm Plaza,L006,Villa,2022,15,18597179.0,9197.42,Ready to Move,Under Construction,4,Lift,Leasehold,Monika Kulkarni,Swati Tiwari
+P00014,PROP-100013,Hill Heights,L011,Apartment,838,3,11338594.0,13530.54,Ready to Move,Available,2,Clubhouse,Co-operative,Radhika Agarwal,Nisha Chopra
+P00015,PROP-100014,River Enclave,L012,Apartment,1565,20,15876403.0,10144.67,Ready to Move,Under Construction,1,Gym,Co-operative,Reyansh Ghosh,Shweta Sharma
+P00016,PROP-100015,Hill Plaza,L011,Apartment,891,8,9056538.0,10164.46,Ready to Move,Available,2,Parking,Co-operative,Nisha Desai,Anjali Jain
+P00017,PROP-100016,Orchid Plaza,L001,Villa,1216,0,8779002.0,7219.57,Under Construction,Rented,5,Security,Freehold,Akash Bansal,Anirudh Desai
+P00018,PROP-100017,Maple Residency,L010,Independent House,1534,3,20703962.0,13496.72,Ready to Move,Available,3,Clubhouse,Freehold,Mansi Pandey,Tanvi Shetty
+P00019,PROP-100018,Hill Plaza,L004,Commercial,1255,10,27071550.0,21570.96,New Launch,Available,3,Gym,Leasehold,Nitin Saxena,Omar Tiwari
+P00020,PROP-100019,Silver Homes,L010,Plot,1693,8,22106928.0,13057.84,Ready to Move,Available,3,Clubhouse,Freehold,Rahul Rao,Anushka Chauhan
+P00021,PROP-100020,Green Enclave,L012,Commercial,1480,25,17775944.0,12010.77,Ready to Move,Sold,2,Parking,Leasehold,Radhika Sethi,Harsh Khanna
+P00022,PROP-100021,Silver Residency,L005,Apartment,969,20,6449226.0,6655.55,New Launch,Available,5,Security,Leasehold,Shweta Malhotra,Payal Desai
+P00023,PROP-100022,Palm Heights,L011,Plot,2245,20,12229788.0,5447.57,Under Construction,Available,1,Security,Leasehold,Nandini Reddy,Rohan Bansal
+P00024,PROP-100023,Maple Plaza,L005,Apartment,1429,0,26537086.0,18570.39,Under Construction,Rented,4,Lift,Co-operative,Aarav Patel,Monika Thakur
+P00025,PROP-100024,Palm Homes,L003,Plot,2274,1,14834970.0,6523.73,New Launch,Rented,1,Gym,Freehold,Sakshi Das,Yamini Tiwari
+P00026,PROP-100025,Hill Plaza,L006,Independent House,1224,10,9032753.0,7379.7,Under Construction,Available,4,Gym,Leasehold,Pallavi Iyer,Aditi Shah
+P00027,PROP-100026,Palm Plaza,L010,Independent House,1877,0,11157228.0,5944.18,Resale,Available,4,Garden,Freehold,Harsh Desai,Rajesh Singh
+P00028,PROP-100027,Cedar Enclave,L009,Independent House,1719,15,16799537.0,9772.85,Resale,Under Construction,1,Pool,Leasehold,Tara Shetty,Imran Singh
+P00029,PROP-100028,River Residency,L008,Plot,1789,10,17150308.0,9586.53,Ready to Move,Available,5,Lift,Co-operative,Karthik Ghosh,Vikram Arora
+P00030,PROP-100029,Lake Homes,L006,Independent House,1621,5,28797928.0,17765.53,New Launch,Under Construction,2,Gym,Leasehold,Manish Bose,Deepak Singh
+P00031,PROP-100030,Sunrise Homes,L001,Independent House,2003,20,28610131.0,14283.64,Ready to Move,Under Construction,4,Lift,Freehold,Varun Joshi,Yamini Malhotra
+P00032,PROP-100031,Silver Plaza,L005,Villa,1856,15,31534886.0,16990.78,Under Construction,Available,1,Lift,Leasehold,Nisha Bhatia,Rahul Singh
+P00033,PROP-100032,Orchid Residency,L012,Independent House,1260,3,20860177.0,16555.7,Ready to Move,Available,1,Clubhouse,Leasehold,Sakshi Ghosh,Pranav Bhatia
+P00034,PROP-100033,Palm Gardens,L012,Commercial,1830,20,29437688.0,16086.17,Ready to Move,Available,2,Garden,Co-operative,Anjali Rawat,Mansi Jain
+P00035,PROP-100034,Palm Enclave,L003,Villa,2061,20,14259176.0,6918.57,Ready to Move,Under Construction,1,Garden,Leasehold,Tanvi Kashyap,Shalini Singh
+P00036,PROP-100035,Silver Enclave,L004,Apartment,1073,5,7646707.0,7126.47,Under Construction,Available,2,Lift,Freehold,Aditya Bansal,Aditya Mukherjee
+P00037,PROP-100036,Green Plaza,L006,Apartment,811,20,6306610.0,7776.34,Ready to Move,Under Construction,2,Garden,Leasehold,Isha Negi,Fatima Rao
+P00038,PROP-100037,Sunrise Gardens,L008,Commercial,1581,1,28814848.0,18225.71,Under Construction,Sold,1,Lift,Leasehold,Lakshmi Verma,Ankit Sethi
+P00039,PROP-100038,Maple Gardens,L005,Plot,1923,2,22892666.0,11904.66,New Launch,Available,4,Clubhouse,Co-operative,Monika Sharma,Amit Bose
+P00040,PROP-100039,Green Plaza,L012,Independent House,2469,3,36604437.0,14825.61,Ready to Move,Available,3,Clubhouse,Leasehold,Chirag Sethi,Sneha Singh
+P00041,PROP-100040,River Homes,L004,Commercial,1949,8,19216580.0,9859.71,Under Construction,Available,3,Gym,Freehold,Amit Khanna,Pranav Rawat
+P00042,PROP-100041,Cedar Plaza,L008,Villa,1829,3,11041016.0,6036.64,Ready to Move,Available,1,Pool,Leasehold,Rohan Kulkarni,Neha Iyer
+P00043,PROP-100042,Cedar Enclave,L008,Apartment,873,15,4898420.0,5611.02,Under Construction,Available,1,Security,Leasehold,Abhishek Sharma,Parth Ghosh
+P00044,PROP-100043,Maple Enclave,L003,Independent House,1810,15,24014799.0,13267.84,Ready to Move,Rented,4,Parking,Co-operative,Nikhil Khanna,Aman Banerjee
+P00045,PROP-100044,River Homes,L010,Independent House,981,5,3994032.0,4071.39,Under Construction,Available,4,Clubhouse,Leasehold,Vivek Sharma,Aanya Shetty
+P00046,PROP-100045,Maple Gardens,L001,Apartment,753,8,8957470.0,11895.71,Ready to Move,Rented,2,Lift,Freehold,Madhav Mishra,Sanjay Nair
+P00047,PROP-100046,Silver Homes,L011,Apartment,1304,20,8257279.0,6332.27,Under Construction,Available,3,Gym,Co-operative,Shweta Arora,Amit Sharma
+P00048,PROP-100047,Cedar Homes,L003,Commercial,2028,2,43842310.0,21618.5,Ready to Move,Available,2,Security,Leasehold,Suresh Rao,Pooja Khanna
+P00049,PROP-100048,Maple Plaza,L003,Apartment,1767,25,15087989.0,8538.76,Ready to Move,Available,2,Garden,Freehold,Siddharth Rawat,Sakshi Agarwal
+P00050,PROP-100049,River Gardens,L009,Independent House,2436,15,14109806.0,5792.2,Ready to Move,Available,4,Pool,Freehold,Anjali Ghosh,Suresh Kapoor
+P00051,PROP-100050,Silver Residency,L003,Commercial,1689,0,28254618.0,16728.61,Ready to Move,Rented,3,Pool,Co-operative,Diya Das,Tara Khanna
+P00052,PROP-100051,Hill Heights,L009,Independent House,1018,0,5069622.0,4979.98,Ready to Move,Rented,1,Security,Leasehold,Suresh Singh,Anirudh Pillai
+P00053,PROP-100052,River Plaza,L002,Independent House,2208,2,36918781.0,16720.46,Under Construction,Rented,2,Lift,Co-operative,Lakshmi Malhotra,Arjun Arora
+P00054,PROP-100053,Hill Gardens,L011,Villa,1404,5,26225118.0,18678.86,Under Construction,Available,1,Security,Freehold,Manish Bhatia,Ankit Gupta
+P00055,PROP-100054,Hill Heights,L009,Independent House,1799,20,27196869.0,15117.77,Ready to Move,Available,5,Parking,Freehold,Monika Ghosh,Nisha Kapoor
+P00056,PROP-100055,Palm Homes,L007,Apartment,384,1,6753083.0,17586.15,Resale,Under Construction,4,Parking,Freehold,Karthik Mishra,Neha Verma
+P00057,PROP-100056,Maple Homes,L009,Apartment,1301,15,10072038.0,7741.77,Under Construction,Rented,1,Clubhouse,Freehold,Sakshi Mehta,Vikram Chauhan
+P00058,PROP-100057,Maple Enclave,L010,Independent House,1801,15,24210410.0,13442.76,Resale,Available,1,Pool,Leasehold,Shalini Yadav,Pallavi Banerjee
+P00059,PROP-100058,Cedar Heights,L010,Apartment,585,8,3404149.0,5819.06,Resale,Available,5,Pool,Leasehold,Suresh Mehta,Nitin Mukherjee
+P00060,PROP-100059,Hill Homes,L003,Apartment,1630,10,11878855.0,7287.64,Ready to Move,Sold,4,Parking,Co-operative,Varun Menon,Swati Chatterjee
+P00061,PROP-100060,Palm Plaza,L008,Plot,1924,5,14785101.0,7684.56,Resale,Available,1,Security,Co-operative,Tara Kumar,Omar Arora
+P00062,PROP-100061,River Gardens,L007,Commercial,1401,5,23178105.0,16543.97,Under Construction,Sold,1,Garden,Freehold,Naveen Agarwal,Nitin Yadav
+P00063,PROP-100062,Palm Heights,L010,Apartment,706,3,10419893.0,14759.05,New Launch,Rented,5,Security,Freehold,Shreya Sinha,Meera Mehta
+P00064,PROP-100063,Silver Enclave,L005,Apartment,1306,15,23591348.0,18063.82,Resale,Under Construction,4,Garden,Freehold,Aditi Malhotra,Mohit Saxena
+P00065,PROP-100064,Green Gardens,L001,Plot,1678,8,27415001.0,16337.9,Resale,Rented,5,Clubhouse,Co-operative,Sara Yadav,Vikram Malhotra
+P00066,PROP-100065,Maple Heights,L011,Villa,2549,1,21785866.0,8546.83,Resale,Rented,3,Pool,Leasehold,Pranav Khanna,Dev Mishra
+P00067,PROP-100066,Hill Enclave,L007,Plot,1281,10,11219552.0,8758.43,New Launch,Available,1,Lift,Co-operative,Reyansh Kapoor,Nikhil Bose
+P00068,PROP-100067,Green Heights,L001,Independent House,1774,0,18440154.0,10394.68,Ready to Move,Available,4,Garden,Leasehold,Madhav Pillai,Nisha Kashyap
+P00069,PROP-100068,Sunrise Enclave,L005,Villa,1989,3,33718158.0,16952.32,New Launch,Available,4,Clubhouse,Freehold,Harsh Iyer,Samar Kashyap
+P00070,PROP-100069,Cedar Residency,L012,Apartment,911,1,8883577.0,9751.46,Ready to Move,Rented,1,Gym,Co-operative,Pallavi Agarwal,Varun Shah
+P00071,PROP-100070,River Gardens,L011,Apartment,1841,15,18040296.0,9799.18,Resale,Rented,2,Parking,Co-operative,Tara Pandey,Ritika Chatterjee
+P00072,PROP-100071,River Homes,L011,Independent House,1043,1,5819218.0,5579.31,Ready to Move,Available,1,Garden,Co-operative,Riya Bisht,Akash Joshi
+P00073,PROP-100072,Maple Enclave,L011,Villa,1876,3,15628960.0,8331.0,Ready to Move,Available,1,Gym,Freehold,Rahul Tripathi,Yash Banerjee
+P00074,PROP-100073,Maple Plaza,L007,Apartment,708,1,10151877.0,14338.81,Under Construction,Available,2,Lift,Co-operative,Karthik Mukherjee,Divya Shetty
+P00075,PROP-100074,Silver Plaza,L005,Apartment,350,20,4188493.0,11967.12,Ready to Move,Under Construction,5,Garden,Freehold,Aarav Pandey,Deepak Jain
+P00076,PROP-100075,Silver Residency,L012,Apartment,1273,0,9636891.0,7570.22,Under Construction,Rented,1,Parking,Co-operative,Shweta Kumar,Fatima Sharma
+P00077,PROP-100076,Lake Homes,L004,Apartment,1466,8,10358097.0,7065.55,New Launch,Sold,3,Pool,Leasehold,Reyansh Mehta,Aanya Kapoor
+P00078,PROP-100077,Palm Residency,L010,Apartment,996,15,9499559.0,9537.71,Under Construction,Available,3,Security,Co-operative,Pranav Pawar,Chirag Rawat
+P00079,PROP-100078,River Heights,L011,Apartment,650,2,2684949.0,4130.69,Ready to Move,Available,5,Clubhouse,Freehold,Tara Gupta,Divya Ghosh
+P00080,PROP-100079,Lake Enclave,L011,Commercial,1211,8,17636474.0,14563.56,Ready to Move,Available,3,Security,Freehold,Imran Bisht,Rahul Gupta
+P00081,PROP-100080,Green Homes,L005,Villa,1942,1,19185359.0,9879.18,Resale,Rented,5,Lift,Leasehold,Zoya Bhatia,Kavya Rao
+P00082,PROP-100081,River Heights,L009,Villa,2434,10,17097426.0,7024.42,Resale,Under Construction,4,Clubhouse,Co-operative,Reyansh Kumar,Aditya Desai
+P00083,PROP-100082,Green Enclave,L012,Apartment,1757,3,15532900.0,8840.58,Ready to Move,Rented,5,Security,Freehold,Madhav Patel,Abhishek Sethi
+P00084,PROP-100083,Sunrise Enclave,L010,Apartment,1009,1,11011693.0,10913.47,Ready to Move,Available,2,Lift,Freehold,Rahul Kohli,Deepak Banerjee
+P00085,PROP-100084,Green Plaza,L006,Plot,1076,0,9580433.0,8903.75,Ready to Move,Available,5,Garden,Freehold,Gaurav Nair,Pranav Shetty
+P00086,PROP-100085,Lake Heights,L008,Apartment,1589,10,28941513.0,18213.66,Ready to Move,Under Construction,5,Clubhouse,Co-operative,Nisha Verma,Zoya Negi
+P00087,PROP-100086,Lake Plaza,L011,Apartment,938,3,11556544.0,12320.41,Ready to Move,Under Construction,5,Pool,Leasehold,Madhav Jain,Sneha Gupta
+P00088,PROP-100087,Cedar Enclave,L010,Apartment,1081,5,13102998.0,12121.18,Under Construction,Sold,5,Clubhouse,Leasehold,Riya Chatterjee,Shreya Banerjee
+P00089,PROP-100088,Orchid Enclave,L004,Independent House,1909,30,16508334.0,8647.63,Ready to Move,Rented,3,Gym,Leasehold,Sara Saxena,Kavya Negi
+P00090,PROP-100089,Palm Homes,L002,Villa,1642,15,8184582.0,4984.52,Ready to Move,Under Construction,5,Pool,Leasehold,Diya Reddy,Tanvi Gupta
+P00091,PROP-100090,Maple Residency,L004,Apartment,1084,0,12338053.0,11381.97,Resale,Sold,3,Security,Freehold,Monika Bisht,Simran Shah
+P00092,PROP-100091,Maple Enclave,L001,Independent House,2137,25,20816687.0,9741.08,Ready to Move,Under Construction,5,Security,Freehold,Arjun Dubey,Akash Iyer
+P00093,PROP-100092,Maple Heights,L006,Apartment,1122,10,6082204.0,5420.86,Ready to Move,Under Construction,3,Parking,Freehold,Kunal Yadav,Pooja Agarwal
+P00094,PROP-100093,Sunrise Heights,L009,Apartment,914,0,12917215.0,14132.62,Resale,Rented,4,Security,Co-operative,Tara Sinha,Meera Malhotra
+P00095,PROP-100094,Lake Gardens,L005,Apartment,1403,10,28256916.0,20140.35,New Launch,Available,1,Garden,Leasehold,Harsh Sharma,Chirag Arora
+P00096,PROP-100095,Cedar Homes,L008,Commercial,1667,5,10008509.0,6003.9,Resale,Available,2,Clubhouse,Freehold,Ira Pillai,Isha Kashyap
+P00097,PROP-100096,Hill Heights,L005,Apartment,1516,10,7633905.0,5035.56,Ready to Move,Under Construction,3,Lift,Freehold,Aanya Malhotra,Abhishek Thakur
+P00098,PROP-100097,Silver Residency,L002,Apartment,1443,20,26571559.0,18414.11,Ready to Move,Available,4,Security,Leasehold,Suresh Reddy,Ankit Tiwari
+P00099,PROP-100098,Palm Enclave,L006,Apartment,1510,3,14453034.0,9571.55,New Launch,Available,4,Parking,Co-operative,Mansi Das,Imran Kashyap
+P00100,PROP-100099,Silver Residency,L008,Apartment,1193,1,14320182.0,12003.51,New Launch,Available,4,Clubhouse,Co-operative,Aditi Singh,Vivaan Jain
+P00101,PROP-100100,Silver Plaza,L006,Apartment,2638,10,23380086.0,8862.81,Ready to Move,Rented,3,Lift,Freehold,Arjun Gupta,Suresh Tripathi
+P00102,PROP-100101,Orchid Heights,L009,Apartment,1084,3,6634454.0,6120.34,Resale,Rented,1,Parking,Co-operative,Zoya Gupta,Aarohi Desai
+P00103,PROP-100102,Hill Heights,L005,Apartment,435,8,5171066.0,11887.51,Ready to Move,Available,5,Pool,Co-operative,Vivaan Mishra,Ananya Sethi
+P00104,PROP-100103,Green Enclave,L012,Villa,1484,15,5442626.0,3667.54,Ready to Move,Rented,3,Gym,Freehold,Manish Sinha,Lakshmi Das
+P00105,PROP-100104,Cedar Enclave,L011,Independent House,733,15,3589866.0,4897.5,New Launch,Under Construction,4,Pool,Freehold,Imran Patel,Shivani Shetty
+P00106,PROP-100105,Hill Homes,L006,Apartment,1476,20,5917826.0,4009.37,Ready to Move,Sold,2,Clubhouse,Freehold,Mohit Das,Rahul Mukherjee
+P00107,PROP-100106,Orchid Residency,L010,Villa,1547,10,24236183.0,15666.57,Ready to Move,Available,4,Garden,Leasehold,Riya Bansal,Shreya Sethi
+P00108,PROP-100107,River Gardens,L012,Apartment,867,10,4458581.0,5142.54,Ready to Move,Available,1,Clubhouse,Freehold,Rohan Sinha,Meera Tripathi
+P00109,PROP-100108,Orchid Plaza,L003,Apartment,1623,30,14863089.0,9157.79,Under Construction,Available,5,Clubhouse,Leasehold,Aman Agarwal,Vivaan Bisht
+P00110,PROP-100109,Silver Homes,L007,Commercial,2425,10,38182350.0,15745.3,Under Construction,Available,3,Lift,Leasehold,Gaurav Mukherjee,Saurabh Rawat
+P00111,PROP-100110,Hill Residency,L006,Independent House,2599,8,35839570.0,13789.75,Ready to Move,Rented,3,Parking,Freehold,Kavya Kapoor,Suresh Mishra
+P00112,PROP-100111,Cedar Heights,L005,Apartment,1655,2,29349908.0,17734.08,Ready to Move,Available,2,Lift,Freehold,Dev Chatterjee,Anirudh Banerjee
+P00113,PROP-100112,Cedar Homes,L006,Villa,1686,10,9435859.0,5596.59,Under Construction,Rented,2,Pool,Co-operative,Nikhil Kumar,Reyansh Arora
+P00114,PROP-100113,Orchid Heights,L002,Apartment,773,1,8650731.0,11191.11,Ready to Move,Rented,2,Clubhouse,Co-operative,Kabir Mukherjee,Pooja Ghosh
+P00115,PROP-100114,Cedar Plaza,L012,Villa,2254,0,18622492.0,8261.98,Under Construction,Under Construction,1,Garden,Leasehold,Vikram Tripathi,Ishaan Kulkarni
+P00116,PROP-100115,River Gardens,L002,Independent House,2143,5,29438646.0,13737.12,Resale,Available,1,Lift,Co-operative,Nitin Kohli,Simran Reddy
+P00117,PROP-100116,Lake Homes,L007,Independent House,1416,2,17419657.0,12302.02,New Launch,Available,3,Parking,Leasehold,Manish Joshi,Ibrahim Khanna
+P00118,PROP-100117,Sunrise Homes,L001,Apartment,921,25,6320336.0,6862.47,Under Construction,Available,1,Lift,Co-operative,Tara Kashyap,Saurabh Thakur
+P00119,PROP-100118,Lake Enclave,L002,Independent House,2270,2,20873521.0,9195.38,Under Construction,Rented,5,Gym,Leasehold,Aarav Verma,Harsh Kulkarni
+P00120,PROP-100119,Cedar Heights,L003,Apartment,1492,20,25529647.0,17111.02,Resale,Available,5,Security,Leasehold,Mansi Nair,Akash Menon
+P00121,PROP-100120,Orchid Gardens,L006,Apartment,1715,3,18317467.0,10680.74,Ready to Move,Available,5,Gym,Freehold,Lakshmi Negi,Neha Desai
+P00122,PROP-100121,Orchid Homes,L003,Apartment,1514,8,21060442.0,13910.46,New Launch,Under Construction,1,Lift,Co-operative,Payal Kashyap,Neha Joshi
+P00123,PROP-100122,Maple Residency,L011,Commercial,1383,8,21611140.0,15626.28,Ready to Move,Sold,4,Parking,Co-operative,Imran Banerjee,Sanjay Jain
+P00124,PROP-100123,Hill Plaza,L003,Apartment,1136,1,12466151.0,10973.72,Ready to Move,Sold,3,Security,Co-operative,Ankit Sharma,Saurabh Joshi
+P00125,PROP-100124,River Plaza,L003,Apartment,1460,1,26262086.0,17987.73,Under Construction,Available,2,Security,Freehold,Saurabh Agarwal,Akash Bose
+P00126,PROP-100125,Silver Plaza,L009,Apartment,939,15,8691968.0,9256.62,Ready to Move,Under Construction,4,Pool,Leasehold,Farhan Pillai,Aditi Pawar
+P00127,PROP-100126,Lake Homes,L005,Apartment,961,10,15251402.0,15870.35,Ready to Move,Available,5,Pool,Leasehold,Swati Sharma,Aman Malhotra
+P00128,PROP-100127,Cedar Residency,L003,Apartment,1316,25,8305819.0,6311.41,Ready to Move,Rented,2,Gym,Leasehold,Meera Patel,Tanvi Singh
+P00129,PROP-100128,River Heights,L005,Plot,1989,25,6118031.0,3075.93,Ready to Move,Available,3,Security,Freehold,Pallavi Ghosh,Rohan Mishra
+P00130,PROP-100129,Lake Heights,L005,Commercial,1729,1,38490118.0,22261.49,Ready to Move,Rented,3,Clubhouse,Leasehold,Anushka Shah,Nisha Kumar
+P00131,PROP-100130,River Heights,L011,Independent House,1702,8,11699759.0,6874.12,Ready to Move,Under Construction,1,Pool,Co-operative,Pallavi Kumar,Isha Kohli
+P00132,PROP-100131,Hill Plaza,L012,Commercial,1456,15,32204928.0,22118.77,New Launch,Available,3,Gym,Leasehold,Sneha Kulkarni,Arjun Khanna
+P00133,PROP-100132,Sunrise Heights,L004,Apartment,1510,0,27044410.0,17910.21,Resale,Rented,2,Gym,Leasehold,Sakshi Saxena,Divya Kashyap
+P00134,PROP-100133,Sunrise Plaza,L009,Apartment,2031,5,16434183.0,8091.67,Ready to Move,Rented,4,Garden,Freehold,Vivek Thakur,Diya Mishra
+P00135,PROP-100134,Orchid Plaza,L001,Apartment,1552,20,19292159.0,12430.52,Ready to Move,Under Construction,3,Clubhouse,Co-operative,Reyansh Kashyap,Samar Arora
+P00136,PROP-100135,Hill Heights,L004,Commercial,1402,2,6483083.0,4624.17,Ready to Move,Available,1,Security,Leasehold,Vivaan Kapoor,Abhishek Arora
+P00137,PROP-100136,Lake Gardens,L001,Plot,2029,20,15076857.0,7430.68,Resale,Available,4,Lift,Co-operative,Meera Khanna,Imran Shetty
+P00138,PROP-100137,Palm Plaza,L001,Commercial,1205,5,15504860.0,12867.1,Ready to Move,Sold,2,Security,Freehold,Rakesh Banerjee,Swati Agarwal
+P00139,PROP-100138,Silver Plaza,L002,Plot,2452,8,34129478.0,13919.04,Ready to Move,Under Construction,5,Pool,Leasehold,Aditi Reddy,Varun Kumar
+P00140,PROP-100139,Maple Residency,L011,Apartment,1368,0,24404135.0,17839.28,Ready to Move,Available,4,Security,Co-operative,Nandini Shah,Abhishek Bansal
+P00141,PROP-100140,Sunrise Homes,L005,Apartment,540,8,6416918.0,11883.18,Ready to Move,Rented,2,Security,Co-operative,Radhika Kumar,Aarohi Verma
+P00142,PROP-100141,Lake Plaza,L001,Commercial,1241,25,14116606.0,11375.19,Resale,Rented,3,Garden,Co-operative,Rajesh Iyer,Ira Ghosh
+P00143,PROP-100142,Orchid Homes,L008,Apartment,1469,10,17637137.0,12006.22,Ready to Move,Sold,4,Security,Leasehold,Swati Kumar,Anirudh Rao
+P00144,PROP-100143,Hill Residency,L005,Apartment,436,8,5988229.0,13734.47,Ready to Move,Under Construction,3,Gym,Leasehold,Shalini Sethi,Aditi Negi
+P00145,PROP-100144,Silver Enclave,L002,Plot,1948,1,13153303.0,6752.21,Resale,Available,5,Security,Freehold,Ananya Patel,Meera Banerjee
+P00146,PROP-100145,Green Residency,L007,Independent House,1696,2,24516939.0,14455.74,Under Construction,Under Construction,4,Parking,Freehold,Ishaan Chopra,Tara Mishra
+P00147,PROP-100146,Orchid Heights,L008,Apartment,1117,3,6231803.0,5579.05,Under Construction,Available,1,Garden,Leasehold,Ankit Bansal,Mansi Patel
+P00148,PROP-100147,Orchid Heights,L003,Apartment,1117,0,17964887.0,16083.16,Under Construction,Rented,4,Clubhouse,Co-operative,Anirudh Kohli,Tanvi Desai
+P00149,PROP-100148,Palm Residency,L004,Villa,1959,20,13623185.0,6954.15,Ready to Move,Under Construction,2,Parking,Leasehold,Shivani Shah,Sakshi Nair
+P00150,PROP-100149,Maple Gardens,L007,Apartment,1704,2,15704543.0,9216.28,Ready to Move,Rented,5,Pool,Co-operative,Kavya Yadav,Nisha Nair
+P00151,PROP-100150,Palm Homes,L012,Independent House,2200,8,30230661.0,13741.21,Ready to Move,Available,1,Security,Freehold,Swati Sinha,Ankit Rawat
+P00152,PROP-100151,Cedar Plaza,L006,Plot,2135,8,8041353.0,3766.44,Ready to Move,Available,4,Security,Leasehold,Riya Mukherjee,Riya Nair
+P00153,PROP-100152,River Heights,L009,Apartment,470,10,6574143.0,13987.54,New Launch,Available,3,Clubhouse,Freehold,Meera Reddy,Rahul Bose
+P00154,PROP-100153,Green Gardens,L009,Independent House,1794,5,21882684.0,12197.71,Ready to Move,Available,5,Gym,Co-operative,Karthik Khanna,Sakshi Dubey
+P00155,PROP-100154,Sunrise Heights,L006,Apartment,438,15,4765865.0,10880.97,Resale,Available,5,Pool,Freehold,Shweta Saxena,Kabir Joshi
+P00156,PROP-100155,Sunrise Enclave,L005,Apartment,1430,15,6104560.0,4268.92,Under Construction,Available,4,Garden,Co-operative,Diya Kapoor,Aanya Desai
+P00157,PROP-100156,Lake Residency,L010,Commercial,1947,0,38464794.0,19755.93,Resale,Available,4,Clubhouse,Co-operative,Nikhil Mehta,Anjali Malhotra
+P00158,PROP-100157,Sunrise Enclave,L009,Commercial,2190,2,10852473.0,4955.47,Ready to Move,Rented,1,Garden,Co-operative,Nikhil Desai,Parth Khanna
+P00159,PROP-100158,Green Residency,L010,Plot,1594,2,26930019.0,16894.62,Resale,Sold,4,Security,Freehold,Naveen Thakur,Radhika Mehta
+P00160,PROP-100159,Green Homes,L007,Independent House,1737,10,7581022.0,4364.43,Resale,Available,3,Parking,Leasehold,Samar Chopra,Abhishek Dubey
+P00161,PROP-100160,River Enclave,L005,Apartment,592,0,3206109.0,5415.72,Under Construction,Under Construction,2,Pool,Co-operative,Sakshi Verma,Nisha Mehta
+P00162,PROP-100161,Lake Gardens,L007,Villa,1836,3,24835918.0,13527.19,Resale,Available,1,Pool,Leasehold,Vikram Das,Deepak Sethi
+P00163,PROP-100162,Green Homes,L004,Apartment,1583,15,17224366.0,10880.84,Under Construction,Available,4,Pool,Co-operative,Aditya Singh,Mansi Desai
+P00164,PROP-100163,River Plaza,L010,Villa,1901,2,22473382.0,11821.87,Resale,Available,2,Pool,Leasehold,Yamini Ghosh,Riya Saxena
+P00165,PROP-100164,Green Residency,L007,Independent House,1383,5,22027975.0,15927.68,Resale,Available,2,Parking,Freehold,Monika Kashyap,Diya Chauhan
+P00166,PROP-100165,Lake Residency,L010,Commercial,2178,5,16856058.0,7739.24,Ready to Move,Available,2,Clubhouse,Leasehold,Anirudh Sethi,Pranav Thakur
+P00167,PROP-100166,Hill Enclave,L004,Apartment,1166,0,14562626.0,12489.39,Resale,Available,1,Pool,Leasehold,Chirag Bisht,Sakshi Sharma
+P00168,PROP-100167,Orchid Plaza,L012,Apartment,706,20,4028193.0,5705.66,Ready to Move,Rented,3,Gym,Co-operative,Rajesh Shah,Tanvi Malhotra
+P00169,PROP-100168,Orchid Enclave,L005,Apartment,817,20,7819118.0,9570.52,Resale,Available,2,Parking,Leasehold,Naveen Banerjee,Pooja Bose
+P00170,PROP-100169,Cedar Heights,L011,Villa,924,25,8286284.0,8967.84,Under Construction,Available,5,Parking,Leasehold,Diya Patel,Sneha Pillai
+P00171,PROP-100170,Palm Residency,L002,Apartment,1646,1,23195335.0,14091.94,Ready to Move,Under Construction,2,Garden,Freehold,Divya Desai,Swati Mishra
+P00172,PROP-100171,Silver Homes,L003,Commercial,1896,5,19136628.0,10093.16,Ready to Move,Rented,4,Garden,Co-operative,Priya Bansal,Samar Rawat
+P00173,PROP-100172,Silver Residency,L009,Independent House,1956,2,10020684.0,5123.05,Ready to Move,Available,4,Gym,Freehold,Rakesh Tripathi,Amit Banerjee
+P00174,PROP-100173,Orchid Heights,L002,Apartment,1497,10,10636791.0,7105.41,New Launch,Rented,2,Lift,Leasehold,Neha Bisht,Reyansh Negi
+P00175,PROP-100174,Sunrise Residency,L009,Independent House,2011,2,24556593.0,12211.14,Ready to Move,Available,1,Parking,Leasehold,Naveen Sethi,Madhav Banerjee
+P00176,PROP-100175,Cedar Residency,L009,Villa,1737,20,16992134.0,9782.46,Ready to Move,Rented,4,Lift,Freehold,Rahul Nair,Amit Reddy
+P00177,PROP-100176,Green Plaza,L006,Independent House,1485,20,12587305.0,8476.3,Under Construction,Available,1,Clubhouse,Freehold,Diya Banerjee,Payal Kulkarni
+P00178,PROP-100177,Palm Residency,L008,Independent House,1970,10,14844998.0,7535.53,Ready to Move,Rented,1,Security,Leasehold,Tara Tiwari,Monika Mehta
+P00179,PROP-100178,Maple Plaza,L002,Apartment,1201,10,5961650.0,4963.9,Ready to Move,Available,3,Pool,Co-operative,Kunal Das,Kabir Menon
+P00180,PROP-100179,Lake Homes,L010,Independent House,1345,3,15939604.0,11851.01,Ready to Move,Rented,4,Security,Leasehold,Shalini Tripathi,Ayesha Verma
+P00181,PROP-100180,Green Homes,L002,Independent House,2111,8,26326566.0,12471.14,Ready to Move,Rented,2,Pool,Co-operative,Sneha Ghosh,Neha Tiwari
+P00182,PROP-100181,Sunrise Heights,L009,Independent House,2230,5,26316167.0,11800.97,Under Construction,Available,4,Security,Leasehold,Madhav Das,Rahul Mishra
+P00183,PROP-100182,Green Plaza,L003,Apartment,1797,30,5331268.0,2966.76,Ready to Move,Available,5,Gym,Freehold,Yash Rao,Nitin Sinha
+P00184,PROP-100183,River Gardens,L008,Independent House,1985,20,29762098.0,14993.5,Under Construction,Under Construction,1,Pool,Co-operative,Ishaan Bisht,Mansi Pillai
+P00185,PROP-100184,Palm Residency,L009,Apartment,2150,5,21248980.0,9883.25,Under Construction,Sold,5,Lift,Freehold,Pranav Pillai,Aman Chopra
+P00186,PROP-100185,Orchid Plaza,L002,Independent House,1324,8,19920747.0,15045.88,Ready to Move,Under Construction,2,Gym,Co-operative,Ananya Thakur,Pooja Joshi
+P00187,PROP-100186,Hill Residency,L009,Commercial,955,8,13507349.0,14143.82,Ready to Move,Available,1,Garden,Freehold,Kunal Nair,Karthik Pawar
+P00188,PROP-100187,Cedar Heights,L009,Apartment,1119,0,21711363.0,19402.47,Ready to Move,Available,3,Pool,Leasehold,Ayesha Mukherjee,Aman Kapoor
+P00189,PROP-100188,Cedar Enclave,L012,Apartment,1305,15,4993433.0,3826.39,New Launch,Available,2,Lift,Leasehold,Aman Kohli,Ritu Kashyap
+P00190,PROP-100189,Orchid Enclave,L010,Apartment,438,3,2970350.0,6781.62,Ready to Move,Available,5,Pool,Leasehold,Priya Chopra,Juhi Kashyap
+P00191,PROP-100190,Sunrise Residency,L002,Villa,1882,15,13388991.0,7114.24,Ready to Move,Under Construction,3,Pool,Leasehold,Neha Pandey,Bhavna Malhotra
+P00192,PROP-100191,Silver Residency,L009,Villa,2400,15,12843142.0,5351.31,Ready to Move,Under Construction,2,Lift,Co-operative,Mohit Chauhan,Swati Mukherjee
+P00193,PROP-100192,Lake Gardens,L008,Apartment,1316,1,10973009.0,8338.15,New Launch,Available,5,Clubhouse,Co-operative,Dev Dubey,Ayesha Khanna
+P00194,PROP-100193,Cedar Enclave,L009,Villa,1786,30,5277951.0,2955.18,Ready to Move,Under Construction,3,Gym,Co-operative,Madhav Chopra,Nandini Banerjee
+P00195,PROP-100194,Hill Residency,L008,Apartment,1500,10,6140893.0,4093.93,Ready to Move,Available,2,Gym,Co-operative,Aditya Kashyap,Divya Iyer
+P00196,PROP-100195,Sunrise Plaza,L004,Commercial,1496,2,22919786.0,15320.71,Ready to Move,Available,1,Pool,Freehold,Arjun Verma,Reyansh Bisht
+P00197,PROP-100196,Orchid Homes,L003,Apartment,1144,10,8447963.0,7384.58,Ready to Move,Available,2,Gym,Freehold,Aarav Yadav,Juhi Khanna
+P00198,PROP-100197,Palm Plaza,L004,Commercial,1845,25,17202287.0,9323.73,Resale,Under Construction,2,Lift,Leasehold,Deepak Negi,Gaurav Kumar
+P00199,PROP-100198,Lake Homes,L011,Apartment,958,30,5529431.0,5771.85,Under Construction,Sold,1,Security,Co-operative,Shreya Kohli,Monika Das
+P00200,PROP-100199,Orchid Enclave,L010,Independent House,2508,15,28609354.0,11407.24,Resale,Available,2,Garden,Co-operative,Diya Pandey,Shweta Chopra
+P00201,PROP-100200,Sunrise Enclave,L007,Villa,1707,10,15845566.0,9282.7,Under Construction,Under Construction,2,Pool,Freehold,Aditi Dubey,Payal Banerjee
+P00202,PROP-100201,Orchid Gardens,L012,Plot,1685,20,13510841.0,8018.3,Ready to Move,Available,5,Lift,Freehold,Vivek Sethi,Shweta Bisht
+P00203,PROP-100202,Sunrise Residency,L004,Plot,939,1,10154150.0,10813.79,Ready to Move,Available,3,Lift,Co-operative,Akash Mehta,Rahul Agarwal
+P00204,PROP-100203,Palm Homes,L009,Independent House,2358,5,23318638.0,9889.16,Ready to Move,Available,3,Security,Co-operative,Omar Jain,Manish Tripathi
+P00205,PROP-100204,Sunrise Homes,L007,Apartment,1183,2,17003013.0,14372.79,Ready to Move,Available,2,Security,Freehold,Lakshmi Dubey,Ira Chatterjee
+P00206,PROP-100205,River Residency,L012,Independent House,1823,0,23226150.0,12740.62,Resale,Rented,3,Pool,Freehold,Ankit Das,Deepak Menon
+P00207,PROP-100206,Lake Enclave,L010,Apartment,1767,10,10437092.0,5906.67,Resale,Under Construction,3,Lift,Co-operative,Anushka Malhotra,Chirag Pandey
+P00208,PROP-100207,River Enclave,L002,Villa,1700,30,5892289.0,3466.05,Ready to Move,Available,1,Clubhouse,Co-operative,Diya Verma,Gaurav Gupta
+P00209,PROP-100208,Hill Gardens,L003,Independent House,2194,10,33713352.0,15366.16,Under Construction,Rented,2,Parking,Leasehold,Nandini Yadav,Neha Pillai
+P00210,PROP-100209,Maple Plaza,L002,Commercial,2238,8,16224433.0,7249.52,Resale,Under Construction,2,Garden,Co-operative,Reyansh Patel,Mohit Dubey
+P00211,PROP-100210,Silver Plaza,L004,Villa,1620,5,14867315.0,9177.36,New Launch,Sold,2,Garden,Freehold,Kavya Arora,Madhav Agarwal
+P00212,PROP-100211,Hill Gardens,L009,Villa,1757,15,28645982.0,16303.92,Resale,Rented,1,Pool,Freehold,Monika Kohli,Farhan Shetty
+P00213,PROP-100212,Sunrise Residency,L007,Plot,1823,3,18880929.0,10357.06,Ready to Move,Available,1,Clubhouse,Freehold,Karthik Verma,Nikhil Shah
+P00214,PROP-100213,Green Residency,L002,Plot,1418,2,9870882.0,6961.13,Under Construction,Available,4,Parking,Leasehold,Kabir Patel,Shalini Mehta
+P00215,PROP-100214,Palm Homes,L007,Villa,2185,8,9219404.0,4219.41,Ready to Move,Available,2,Clubhouse,Co-operative,Yash Yadav,Varun Tiwari
+P00216,PROP-100215,Lake Plaza,L006,Commercial,2529,5,52766718.0,20864.66,New Launch,Available,5,Clubhouse,Co-operative,Monika Sinha,Divya Chopra
+P00217,PROP-100216,Maple Homes,L003,Apartment,1405,15,16169759.0,11508.73,Ready to Move,Available,3,Security,Co-operative,Diya Joshi,Yash Pawar
+P00218,PROP-100217,Orchid Heights,L006,Apartment,1095,5,6444436.0,5885.33,Ready to Move,Under Construction,2,Security,Co-operative,Ishaan Mishra,Ritu Bhatia
+P00219,PROP-100218,Silver Enclave,L005,Villa,2232,2,22625235.0,10136.75,Ready to Move,Available,5,Security,Co-operative,Rajesh Mehta,Mohit Jain
+P00220,PROP-100219,Sunrise Plaza,L006,Independent House,856,0,7437882.0,8689.11,Ready to Move,Available,4,Security,Leasehold,Amit Agarwal,Deepak Bisht
+P00221,PROP-100220,Lake Residency,L008,Apartment,1395,2,7019234.0,5031.71,Under Construction,Available,5,Gym,Freehold,Tara Bhatia,Nisha Mukherjee
+P00222,PROP-100221,Palm Enclave,L002,Plot,1090,3,19546841.0,17932.88,Resale,Available,1,Clubhouse,Freehold,Kunal Pandey,Kabir Sinha
+P00223,PROP-100222,Cedar Residency,L003,Apartment,795,3,9290344.0,11685.97,Ready to Move,Rented,2,Gym,Co-operative,Gaurav Kashyap,Mansi Tripathi
+P00224,PROP-100223,Orchid Enclave,L001,Independent House,1673,10,12748417.0,7620.09,Ready to Move,Available,1,Garden,Freehold,Zoya Sharma,Ananya Chauhan
+P00225,PROP-100224,Lake Heights,L003,Plot,1312,2,11553537.0,8806.05,Resale,Available,1,Garden,Co-operative,Bhavna Dubey,Priya Desai
+P00226,PROP-100225,Palm Residency,L010,Apartment,1825,0,11069331.0,6065.39,Resale,Available,3,Gym,Co-operative,Tanvi Dubey,Nandini Pillai
+P00227,PROP-100226,Palm Plaza,L011,Apartment,1372,20,18308446.0,13344.35,Resale,Available,4,Clubhouse,Leasehold,Rohan Bisht,Chirag Bose
+P00228,PROP-100227,River Residency,L012,Villa,1471,5,22702701.0,15433.52,Ready to Move,Available,3,Pool,Freehold,Bhavna Tiwari,Anushka Banerjee
+P00229,PROP-100228,Maple Heights,L001,Apartment,1643,1,21940849.0,13354.14,Resale,Rented,3,Garden,Freehold,Arjun Das,Sara Pillai
+P00230,PROP-100229,Silver Gardens,L009,Apartment,1123,10,8589482.0,7648.69,Ready to Move,Available,1,Gym,Freehold,Varun Verma,Vivek Rao
+P00231,PROP-100230,Palm Plaza,L010,Commercial,2305,2,14216142.0,6167.52,Ready to Move,Under Construction,4,Gym,Co-operative,Pranav Mukherjee,Yash Tiwari
+P00232,PROP-100231,River Residency,L009,Villa,1932,8,16372151.0,8474.2,Under Construction,Sold,5,Clubhouse,Leasehold,Kunal Kashyap,Fatima Reddy
+P00233,PROP-100232,River Plaza,L008,Commercial,1976,15,19828031.0,10034.43,Under Construction,Under Construction,4,Security,Leasehold,Shivani Bisht,Harsh Kohli
+P00234,PROP-100233,Cedar Enclave,L007,Commercial,2214,2,19111200.0,8631.98,Resale,Rented,5,Parking,Freehold,Shreya Verma,Abhishek Jain
+P00235,PROP-100234,Lake Enclave,L012,Independent House,2566,8,24384002.0,9502.73,Resale,Available,3,Garden,Leasehold,Swati Desai,Gaurav Chopra
+P00236,PROP-100235,Lake Heights,L002,Independent House,2207,1,25331451.0,11477.78,Resale,Rented,2,Lift,Freehold,Pranav Reddy,Parth Kapoor
+P00237,PROP-100236,Orchid Residency,L008,Independent House,1728,2,32345166.0,18718.27,Under Construction,Available,4,Clubhouse,Leasehold,Abhishek Pandey,Pallavi Bhatia
+P00238,PROP-100237,Hill Enclave,L009,Independent House,1536,15,13783699.0,8973.76,Under Construction,Sold,4,Clubhouse,Co-operative,Naveen Jain,Aarav Negi
+P00239,PROP-100238,Hill Enclave,L004,Independent House,2031,10,12052639.0,5934.34,Under Construction,Under Construction,5,Gym,Co-operative,Yash Kumar,Aditi Kashyap
+P00240,PROP-100239,Palm Plaza,L002,Apartment,1230,5,8205951.0,6671.51,Ready to Move,Under Construction,3,Security,Leasehold,Lakshmi Pawar,Naveen Desai
+P00241,PROP-100240,Hill Homes,L001,Independent House,1777,8,30011583.0,16888.9,Resale,Rented,5,Pool,Freehold,Swati Jain,Tara Yadav
+P00242,PROP-100241,Hill Homes,L005,Apartment,1559,5,27896966.0,17894.14,New Launch,Under Construction,4,Parking,Freehold,Tanvi Chatterjee,Sara Kapoor
+P00243,PROP-100242,River Gardens,L009,Independent House,2274,3,13823900.0,6079.11,Ready to Move,Under Construction,1,Security,Leasehold,Mohit Nair,Monika Reddy
+P00244,PROP-100243,Maple Residency,L003,Independent House,1065,25,8075432.0,7582.57,New Launch,Available,2,Pool,Freehold,Monika Chauhan,Yash Verma
+P00245,PROP-100244,Orchid Heights,L001,Commercial,1945,10,17246367.0,8867.03,Resale,Sold,3,Lift,Freehold,Akash Banerjee,Nisha Sethi
+P00246,PROP-100245,Green Residency,L011,Apartment,746,1,5285439.0,7085.04,Ready to Move,Under Construction,2,Parking,Freehold,Omar Patel,Amit Kohli
+P00247,PROP-100246,Green Gardens,L008,Plot,1718,8,13411094.0,7806.22,Ready to Move,Available,1,Parking,Freehold,Siddharth Bhatia,Sara Bhatia
+P00248,PROP-100247,Maple Enclave,L009,Commercial,2506,20,22568191.0,9005.66,Ready to Move,Available,1,Clubhouse,Leasehold,Bhavna Chopra,Arjun Nair
+P00249,PROP-100248,Maple Heights,L008,Independent House,1542,8,12427393.0,8059.27,Ready to Move,Available,1,Gym,Freehold,Ibrahim Yadav,Pooja Shetty
+P00250,PROP-100249,Silver Homes,L008,Independent House,1468,2,6094837.0,4151.8,Under Construction,Rented,2,Garden,Co-operative,Neha Saxena,Lakshmi Kapoor
+P00251,PROP-100250,Lake Gardens,L002,Apartment,1338,20,12743167.0,9524.04,Under Construction,Under Construction,5,Garden,Leasehold,Tanvi Khanna,Payal Malhotra
+P00252,PROP-100251,Hill Residency,L001,Independent House,1227,5,19674233.0,16034.42,Ready to Move,Under Construction,4,Garden,Freehold,Dev Pawar,Payal Kapoor
+P00253,PROP-100252,Hill Residency,L005,Villa,1866,5,20107244.0,10775.59,Resale,Rented,2,Security,Co-operative,Suresh Khanna,Aman Ghosh
+P00254,PROP-100253,River Plaza,L003,Apartment,697,15,5032542.0,7220.29,Ready to Move,Available,1,Clubhouse,Co-operative,Simran Rao,Rohan Rao
+P00255,PROP-100254,Orchid Gardens,L011,Villa,1566,20,12050875.0,7695.32,Resale,Under Construction,4,Parking,Leasehold,Fatima Mukherjee,Shivani Yadav
+P00256,PROP-100255,Hill Homes,L009,Apartment,1106,15,5569621.0,5035.82,Under Construction,Available,3,Security,Freehold,Dev Khanna,Aman Rawat
+P00257,PROP-100256,Silver Heights,L002,Apartment,1029,0,5734849.0,5573.23,Ready to Move,Available,2,Garden,Leasehold,Ritu Menon,Tanvi Kohli
+P00258,PROP-100257,Lake Plaza,L001,Apartment,380,0,3412678.0,8980.73,Ready to Move,Rented,3,Gym,Leasehold,Mohit Bansal,Divya Kulkarni
+P00259,PROP-100258,River Homes,L005,Apartment,1170,15,13840525.0,11829.51,Ready to Move,Rented,1,Garden,Co-operative,Karthik Bansal,Ibrahim Sharma
+P00260,PROP-100259,Orchid Enclave,L005,Villa,2414,5,16262700.0,6736.83,Ready to Move,Rented,3,Lift,Leasehold,Yamini Iyer,Omar Bose
+P00261,PROP-100260,Green Residency,L002,Apartment,933,20,12958743.0,13889.33,Under Construction,Sold,2,Gym,Freehold,Zoya Shetty,Aanya Bansal
+P00262,PROP-100261,Green Heights,L012,Apartment,852,5,2789529.0,3274.1,Ready to Move,Available,1,Parking,Freehold,Imran Rao,Kabir Negi
+P00263,PROP-100262,Lake Plaza,L002,Commercial,1655,3,36061123.0,21789.2,Under Construction,Available,3,Pool,Leasehold,Tara Rao,Ankit Arora
+P00264,PROP-100263,Hill Plaza,L005,Apartment,1309,1,24659919.0,18838.75,Ready to Move,Available,1,Security,Freehold,Nitin Chopra,Aanya Kohli
+P00265,PROP-100264,Green Homes,L010,Apartment,1274,3,7099780.0,5572.83,New Launch,Available,3,Pool,Leasehold,Pranav Shah,Yash Bhatia
+P00266,PROP-100265,River Residency,L002,Apartment,1180,8,14412301.0,12213.81,Resale,Available,3,Lift,Leasehold,Ibrahim Nair,Kunal Bisht
+P00267,PROP-100266,Orchid Heights,L011,Villa,1519,0,10085617.0,6639.64,Resale,Available,1,Pool,Co-operative,Rohan Malhotra,Vivek Chatterjee
+P00268,PROP-100267,Silver Enclave,L001,Apartment,1340,5,16029368.0,11962.21,Ready to Move,Rented,3,Clubhouse,Leasehold,Kavya Pandey,Rakesh Bhatia
+P00269,PROP-100268,Sunrise Plaza,L008,Apartment,1414,15,6825697.0,4827.23,Ready to Move,Sold,1,Lift,Leasehold,Ananya Bose,Naveen Rawat
+P00270,PROP-100269,Maple Gardens,L012,Commercial,1719,20,8665087.0,5040.77,Under Construction,Available,4,Security,Co-operative,Nisha Das,Karthik Mehta
+P00271,PROP-100270,River Gardens,L010,Villa,1429,15,10864625.0,7602.96,Ready to Move,Available,5,Gym,Leasehold,Rajesh Thakur,Ankit Pillai
+P00272,PROP-100271,Maple Plaza,L001,Apartment,808,2,5138608.0,6359.66,Ready to Move,Rented,1,Lift,Leasehold,Reyansh Dubey,Kavya Shetty
+P00273,PROP-100272,Green Gardens,L002,Villa,1948,1,28118643.0,14434.62,Ready to Move,Available,3,Gym,Co-operative,Vikram Mishra,Pallavi Mukherjee
+P00274,PROP-100273,Green Enclave,L001,Independent House,1124,5,19184795.0,17068.32,Under Construction,Under Construction,2,Garden,Freehold,Bhavna Kulkarni,Anirudh Dubey
+P00275,PROP-100274,Sunrise Residency,L001,Commercial,1559,0,30019758.0,19255.78,Under Construction,Available,5,Parking,Freehold,Ritu Iyer,Ira Chopra
+P00276,PROP-100275,Palm Gardens,L006,Commercial,1199,8,24970677.0,20826.25,New Launch,Sold,1,Lift,Co-operative,Siddharth Patel,Gaurav Joshi
+P00277,PROP-100276,Palm Gardens,L005,Independent House,1466,30,9223990.0,6291.94,Ready to Move,Sold,4,Garden,Freehold,Sanjay Malhotra,Sara Sinha
+P00278,PROP-100277,Palm Enclave,L008,Apartment,1823,0,30503704.0,16732.7,Ready to Move,Available,1,Gym,Co-operative,Juhi Negi,Sneha Pandey
+P00279,PROP-100278,Sunrise Plaza,L005,Commercial,1015,10,18899028.0,18619.73,Ready to Move,Sold,4,Parking,Freehold,Shweta Patel,Divya Mehta
+P00280,PROP-100279,Green Homes,L012,Apartment,946,20,8946069.0,9456.73,Ready to Move,Available,4,Parking,Co-operative,Sanjay Dubey,Aditya Mehta
+P00281,PROP-100280,Hill Residency,L001,Apartment,1097,15,6313262.0,5755.02,Resale,Available,3,Lift,Freehold,Bhavna Kumar,Aarohi Agarwal
+P00282,PROP-100281,River Homes,L009,Commercial,1521,15,25956661.0,17065.52,Resale,Available,2,Security,Freehold,Vivaan Pandey,Karthik Das
+P00283,PROP-100282,Lake Homes,L003,Independent House,2309,15,26103942.0,11305.3,Ready to Move,Sold,4,Garden,Co-operative,Ishaan Shetty,Aanya Menon
+P00284,PROP-100283,Palm Residency,L010,Independent House,1595,5,18834546.0,11808.49,Under Construction,Available,1,Parking,Freehold,Divya Menon,Shivani Chauhan
+P00285,PROP-100284,Silver Heights,L004,Apartment,601,25,6464786.0,10756.71,Ready to Move,Rented,3,Garden,Leasehold,Chirag Menon,Diya Ghosh
+P00286,PROP-100285,Palm Homes,L007,Apartment,1159,15,5398328.0,4657.75,Under Construction,Rented,4,Security,Co-operative,Swati Dubey,Mohit Khanna
+P00287,PROP-100286,Sunrise Gardens,L008,Apartment,872,2,9612430.0,11023.43,Resale,Available,5,Garden,Co-operative,Naveen Bisht,Aarohi Rawat
+P00288,PROP-100287,Orchid Homes,L002,Independent House,1606,10,31836124.0,19823.24,Under Construction,Under Construction,5,Gym,Leasehold,Yamini Chatterjee,Saurabh Bisht
+P00289,PROP-100288,Lake Residency,L006,Apartment,1275,5,6986628.0,5479.71,Ready to Move,Available,3,Lift,Leasehold,Manish Pawar,Lakshmi Kumar
+P00290,PROP-100289,Orchid Gardens,L001,Apartment,930,15,6787620.0,7298.52,Resale,Under Construction,4,Parking,Freehold,Monika Malhotra,Pallavi Pawar
+P00291,PROP-100290,Palm Gardens,L004,Apartment,2053,3,25772059.0,12553.37,New Launch,Sold,2,Lift,Leasehold,Sanjay Sethi,Ritika Dubey
+P00292,PROP-100291,Hill Residency,L003,Plot,1961,30,23669239.0,12069.98,Ready to Move,Sold,5,Pool,Co-operative,Dev Reddy,Shivani Kumar
+P00293,PROP-100292,River Homes,L001,Apartment,479,15,2873420.0,5998.79,Ready to Move,Rented,4,Pool,Co-operative,Nandini Sinha,Meera Singh
+P00294,PROP-100293,Green Plaza,L005,Apartment,741,10,10543217.0,14228.36,Ready to Move,Available,3,Lift,Leasehold,Aditya Saxena,Samar Verma
+P00295,PROP-100294,Hill Heights,L006,Commercial,1404,25,6057916.0,4314.76,Resale,Available,3,Gym,Co-operative,Shweta Menon,Divya Singh
+P00296,PROP-100295,Palm Enclave,L005,Apartment,1575,5,11289995.0,7168.25,Under Construction,Available,3,Security,Leasehold,Diya Kashyap,Shalini Khanna
+P00297,PROP-100296,Green Heights,L001,Apartment,1166,3,4322553.0,3707.16,New Launch,Available,1,Garden,Co-operative,Payal Mishra,Aditi Rao
+P00298,PROP-100297,Sunrise Residency,L004,Commercial,2065,0,24854622.0,12036.14,Under Construction,Available,1,Security,Co-operative,Varun Kulkarni,Ira Banerjee
+P00299,PROP-100298,Silver Homes,L005,Apartment,484,8,6450612.0,13327.71,New Launch,Available,4,Lift,Leasehold,Gaurav Chatterjee,Simran Khanna
+P00300,PROP-100299,Green Enclave,L003,Apartment,1205,1,20342264.0,16881.55,Under Construction,Rented,5,Parking,Co-operative,Ayesha Agarwal,Manish Patel
+P00301,PROP-100300,Orchid Heights,L009,Villa,1456,30,5797652.0,3981.9,Ready to Move,Available,2,Security,Co-operative,Omar Shah,Fatima Thakur
+P00302,PROP-100301,Cedar Heights,L010,Apartment,989,8,13458149.0,13607.83,Ready to Move,Rented,4,Pool,Co-operative,Ibrahim Kulkarni,Madhav Sinha
+P00303,PROP-100302,Orchid Gardens,L001,Apartment,841,8,7514415.0,8935.09,New Launch,Available,2,Pool,Co-operative,Deepak Sinha,Naveen Mehta
+P00304,PROP-100303,Lake Residency,L012,Apartment,2013,8,19168842.0,9522.52,Resale,Available,4,Pool,Co-operative,Aanya Gupta,Sneha Desai
+P00305,PROP-100304,Palm Enclave,L001,Apartment,412,10,3239921.0,7863.89,Ready to Move,Available,4,Garden,Co-operative,Nitin Bose,Sakshi Pawar
+P00306,PROP-100305,Sunrise Homes,L009,Apartment,1939,1,14534011.0,7495.62,Resale,Available,4,Security,Freehold,Shalini Agarwal,Anushka Mukherjee
+P00307,PROP-100306,Lake Plaza,L012,Apartment,1193,0,21523011.0,18041.08,Resale,Rented,1,Garden,Freehold,Rajesh Kulkarni,Vikram Joshi
+P00308,PROP-100307,Lake Enclave,L007,Independent House,1150,8,12311922.0,10706.02,Under Construction,Sold,2,Security,Leasehold,Pooja Arora,Aanya Banerjee
+P00309,PROP-100308,River Enclave,L001,Apartment,850,5,5822208.0,6849.66,Ready to Move,Sold,5,Pool,Leasehold,Deepak Kumar,Aditya Patel
+P00310,PROP-100309,Orchid Plaza,L007,Independent House,1812,5,25255110.0,13937.7,Ready to Move,Available,1,Security,Co-operative,Isha Mishra,Yamini Bhatia
+P00311,PROP-100310,Orchid Heights,L007,Commercial,1351,25,5938154.0,4395.38,Ready to Move,Under Construction,3,Garden,Freehold,Yamini Jain,Ira Das
+P00312,PROP-100311,River Gardens,L011,Apartment,1200,2,15363514.0,12802.93,Ready to Move,Available,3,Gym,Freehold,Lakshmi Thakur,Simran Jain
+P00313,PROP-100312,Lake Gardens,L008,Villa,1420,15,17523288.0,12340.34,Ready to Move,Available,1,Clubhouse,Co-operative,Farhan Das,Priya Gupta
+P00314,PROP-100313,Sunrise Gardens,L009,Commercial,1438,25,17206625.0,11965.66,Under Construction,Sold,3,Gym,Co-operative,Anirudh Ghosh,Rakesh Sethi
+P00315,PROP-100314,Orchid Enclave,L003,Apartment,1218,3,15593023.0,12802.15,Ready to Move,Available,1,Clubhouse,Co-operative,Sakshi Kulkarni,Reyansh Das
+P00316,PROP-100315,Cedar Heights,L002,Villa,2250,1,15977774.0,7101.23,Ready to Move,Available,4,Security,Freehold,Samar Sharma,Aditi Mukherjee
+P00317,PROP-100316,Hill Plaza,L005,Villa,1937,15,27044983.0,13962.3,Under Construction,Rented,3,Pool,Co-operative,Shreya Shetty,Diya Dubey
+P00318,PROP-100317,Lake Plaza,L008,Apartment,392,2,5220623.0,13317.92,Ready to Move,Available,4,Clubhouse,Leasehold,Sneha Negi,Meera Chauhan
+P00319,PROP-100318,Maple Heights,L012,Villa,1909,5,9918330.0,5195.56,Ready to Move,Available,4,Security,Freehold,Bhavna Kapoor,Sakshi Banerjee
+P00320,PROP-100319,Maple Gardens,L005,Commercial,1849,15,27089982.0,14651.15,Ready to Move,Sold,1,Parking,Co-operative,Mansi Agarwal,Amit Mehta
+P00321,PROP-100320,Maple Residency,L002,Independent House,2015,10,26523644.0,13163.1,Ready to Move,Available,1,Garden,Freehold,Suresh Desai,Yamini Patel
+P00322,PROP-100321,Hill Plaza,L012,Villa,935,15,13515958.0,14455.57,Resale,Under Construction,5,Security,Freehold,Tanvi Chauhan,Ibrahim Thakur
+P00323,PROP-100322,Cedar Heights,L007,Apartment,1611,8,13685703.0,8495.16,Ready to Move,Available,5,Lift,Leasehold,Nikhil Mishra,Bhavna Shetty
+P00324,PROP-100323,Green Enclave,L010,Apartment,1614,20,13114425.0,8125.42,Ready to Move,Under Construction,4,Garden,Co-operative,Tara Verma,Pooja Negi
+P00325,PROP-100324,River Homes,L005,Apartment,1405,15,16556038.0,11783.66,Under Construction,Available,5,Lift,Co-operative,Imran Mehta,Parth Yadav
+P00326,PROP-100325,Palm Homes,L003,Apartment,1573,5,21834791.0,13880.99,Resale,Available,1,Pool,Freehold,Juhi Thakur,Madhav Pawar
+P00327,PROP-100326,Maple Enclave,L002,Apartment,1720,25,12163961.0,7072.07,Ready to Move,Available,1,Gym,Freehold,Meera Rao,Vivek Pandey
+P00328,PROP-100327,Palm Plaza,L009,Apartment,2566,15,12819009.0,4995.72,Ready to Move,Available,4,Garden,Freehold,Isha Mukherjee,Aditya Rao
+P00329,PROP-100328,Palm Homes,L004,Apartment,1370,10,11947873.0,8721.07,Ready to Move,Available,3,Security,Freehold,Imran Mishra,Akash Chatterjee
+P00330,PROP-100329,Maple Gardens,L007,Villa,1752,20,20436214.0,11664.51,Resale,Available,3,Lift,Co-operative,Ritu Sharma,Sneha Reddy
+P00331,PROP-100330,Orchid Residency,L012,Apartment,1083,1,16357293.0,15103.69,New Launch,Sold,4,Clubhouse,Freehold,Harsh Patel,Pooja Tripathi
+P00332,PROP-100331,Sunrise Heights,L005,Commercial,2165,3,52752843.0,24366.21,Resale,Available,2,Pool,Freehold,Shivani Iyer,Rakesh Jain
+P00333,PROP-100332,Palm Homes,L004,Independent House,2298,3,14841686.0,6458.52,Under Construction,Rented,4,Garden,Freehold,Bhavna Patel,Swati Iyer
+P00334,PROP-100333,Lake Residency,L007,Apartment,1485,8,5446549.0,3667.71,Ready to Move,Available,2,Garden,Freehold,Swati Kohli,Pranav Banerjee
+P00335,PROP-100334,Sunrise Residency,L006,Independent House,2365,3,32854928.0,13892.15,Ready to Move,Available,2,Security,Co-operative,Omar Dubey,Tara Sethi
+P00336,PROP-100335,Silver Residency,L006,Apartment,1815,20,26607835.0,14659.96,Under Construction,Under Construction,5,Security,Leasehold,Aditya Ghosh,Pallavi Verma
+P00337,PROP-100336,Palm Gardens,L004,Apartment,914,0,9005823.0,9853.2,Ready to Move,Under Construction,2,Pool,Co-operative,Kavya Bhatia,Rohan Mukherjee
+P00338,PROP-100337,Hill Plaza,L007,Independent House,1518,8,18254388.0,12025.29,Resale,Available,3,Garden,Freehold,Nisha Shetty,Deepak Rao
+P00339,PROP-100338,Sunrise Homes,L011,Plot,1648,20,4720369.0,2864.3,Resale,Under Construction,3,Gym,Leasehold,Chirag Banerjee,Payal Bose
+P00340,PROP-100339,Palm Plaza,L006,Apartment,1790,20,11135396.0,6220.89,Ready to Move,Under Construction,2,Lift,Co-operative,Madhav Negi,Tanvi Thakur
+P00341,PROP-100340,River Gardens,L008,Apartment,1187,10,21932091.0,18476.91,Under Construction,Rented,2,Garden,Leasehold,Anjali Yadav,Riya Sharma
+P00342,PROP-100341,Silver Homes,L002,Apartment,2295,0,17704741.0,7714.48,Ready to Move,Available,1,Lift,Freehold,Vikram Pandey,Harsh Bansal
+P00343,PROP-100342,Green Gardens,L009,Independent House,1868,20,7315438.0,3916.19,Resale,Sold,1,Gym,Leasehold,Rahul Chauhan,Parth Tiwari
+P00344,PROP-100343,Sunrise Heights,L010,Independent House,1932,15,26623973.0,13780.52,Ready to Move,Available,5,Clubhouse,Freehold,Lakshmi Pillai,Suresh Tiwari
+P00345,PROP-100344,Lake Gardens,L010,Villa,1665,20,7181549.0,4313.24,Ready to Move,Available,4,Garden,Leasehold,Meera Agarwal,Nandini Kapoor
+P00346,PROP-100345,Lake Heights,L003,Apartment,1849,2,9743505.0,5269.61,New Launch,Under Construction,1,Gym,Freehold,Ananya Rawat,Samar Jain
+P00347,PROP-100346,Palm Gardens,L011,Apartment,1306,1,23779952.0,18208.23,Under Construction,Available,5,Pool,Leasehold,Reyansh Sethi,Ananya Shetty
+P00348,PROP-100347,Sunrise Homes,L001,Independent House,871,20,7549140.0,8667.21,Ready to Move,Rented,4,Pool,Leasehold,Juhi Tripathi,Shweta Rao
+P00349,PROP-100348,Lake Homes,L012,Apartment,1277,10,17680156.0,13845.07,Ready to Move,Under Construction,5,Clubhouse,Leasehold,Shalini Sharma,Neha Chatterjee
+P00350,PROP-100349,Silver Heights,L003,Commercial,1613,8,29067276.0,18020.63,Ready to Move,Available,1,Garden,Leasehold,Anirudh Iyer,Rakesh Sharma
+P00351,PROP-100350,River Heights,L001,Independent House,1514,3,18776250.0,12401.75,Under Construction,Sold,2,Pool,Co-operative,Ritu Kulkarni,Manish Nair
+P00352,PROP-100351,Lake Gardens,L012,Apartment,1635,25,23840876.0,14581.58,Ready to Move,Under Construction,3,Lift,Freehold,Monika Pawar,Nikhil Sharma
+P00353,PROP-100352,River Gardens,L004,Apartment,994,3,13329063.0,13409.52,Ready to Move,Available,4,Lift,Freehold,Aanya Bose,Divya Sinha
+P00354,PROP-100353,Hill Homes,L011,Independent House,2049,2,29859455.0,14572.7,Ready to Move,Rented,4,Gym,Leasehold,Rohan Agarwal,Priya Banerjee
+P00355,PROP-100354,Orchid Residency,L004,Independent House,1900,15,24478511.0,12883.43,Ready to Move,Available,3,Garden,Co-operative,Ayesha Saxena,Shreya Das
+P00356,PROP-100355,Silver Gardens,L006,Plot,1617,25,6460548.0,3995.39,Ready to Move,Available,4,Garden,Freehold,Mansi Mehta,Radhika Chopra
+P00357,PROP-100356,Sunrise Plaza,L002,Plot,1599,15,10936858.0,6839.81,New Launch,Available,1,Gym,Leasehold,Nandini Bhatia,Yamini Thakur
+P00358,PROP-100357,Hill Gardens,L002,Commercial,1227,20,12028207.0,9802.94,Resale,Rented,3,Lift,Co-operative,Omar Bisht,Karthik Kapoor
+P00359,PROP-100358,Lake Enclave,L009,Apartment,1255,15,9452640.0,7531.98,Resale,Available,5,Parking,Freehold,Rohan Khanna,Omar Verma
+P00360,PROP-100359,Palm Heights,L001,Apartment,1223,0,18528668.0,15150.18,Ready to Move,Under Construction,4,Parking,Leasehold,Farhan Jain,Divya Sethi
+P00361,PROP-100360,Maple Gardens,L001,Plot,2031,2,33193145.0,16343.25,Ready to Move,Rented,4,Clubhouse,Co-operative,Ayesha Ghosh,Ibrahim Chopra
+P00362,PROP-100361,Lake Enclave,L007,Villa,1750,15,19901824.0,11372.47,Under Construction,Rented,3,Security,Co-operative,Samar Iyer,Anjali Arora
+P00363,PROP-100362,Maple Heights,L012,Plot,1674,30,5790410.0,3459.03,Resale,Rented,2,Gym,Leasehold,Dev Mukherjee,Anjali Bhatia
+P00364,PROP-100363,River Gardens,L002,Apartment,933,25,13670705.0,14652.42,Ready to Move,Available,4,Clubhouse,Leasehold,Monika Dubey,Rakesh Bose
+P00365,PROP-100364,Green Gardens,L012,Apartment,1165,10,7491971.0,6430.88,Resale,Available,4,Garden,Freehold,Aditi Joshi,Yash Sharma
+P00366,PROP-100365,Hill Heights,L002,Villa,1711,8,34458556.0,20139.42,Ready to Move,Under Construction,5,Security,Freehold,Mansi Menon,Radhika Bansal
+P00367,PROP-100366,Green Homes,L006,Commercial,1515,0,27546238.0,18182.34,Ready to Move,Rented,2,Lift,Freehold,Rahul Banerjee,Sanjay Joshi
+P00368,PROP-100367,Cedar Residency,L006,Plot,974,3,6584525.0,6760.29,Resale,Rented,5,Gym,Co-operative,Ira Kohli,Pallavi Kapoor
+P00369,PROP-100368,Hill Plaza,L005,Plot,2261,0,31943126.0,14127.88,Ready to Move,Rented,1,Pool,Freehold,Aanya Das,Neha Kohli
+P00370,PROP-100369,Cedar Residency,L004,Commercial,1729,8,20381710.0,11788.15,New Launch,Rented,4,Gym,Freehold,Diya Negi,Yash Negi
+P00371,PROP-100370,Maple Enclave,L004,Apartment,1945,1,25672789.0,13199.38,Ready to Move,Rented,5,Gym,Leasehold,Karthik Chauhan,Madhav Yadav
+P00372,PROP-100371,Green Plaza,L003,Plot,1699,1,20842632.0,12267.59,Ready to Move,Available,5,Lift,Freehold,Meera Kumar,Ananya Joshi
+P00373,PROP-100372,Lake Gardens,L012,Plot,2197,3,20267072.0,9224.88,Resale,Available,2,Clubhouse,Leasehold,Siddharth Gupta,Lakshmi Kashyap
+P00374,PROP-100373,Maple Gardens,L009,Apartment,1178,8,12729447.0,10805.98,Resale,Sold,4,Garden,Co-operative,Shweta Banerjee,Aditi Pillai
+P00375,PROP-100374,Cedar Enclave,L002,Apartment,814,1,12692214.0,15592.4,Resale,Under Construction,2,Garden,Co-operative,Amit Chatterjee,Ritu Rao
+P00376,PROP-100375,Green Enclave,L005,Commercial,2287,5,43423830.0,18987.25,Resale,Available,5,Pool,Freehold,Anjali Chatterjee,Isha Malhotra
+P00377,PROP-100376,Green Heights,L012,Independent House,1154,5,12630716.0,10945.16,Ready to Move,Available,4,Gym,Co-operative,Fatima Bose,Rahul Reddy
+P00378,PROP-100377,Hill Homes,L003,Apartment,1851,8,17459300.0,9432.36,Ready to Move,Available,1,Gym,Leasehold,Diya Bhatia,Payal Pawar
+P00379,PROP-100378,Hill Residency,L005,Commercial,2005,10,39143673.0,19523.03,Ready to Move,Rented,5,Pool,Freehold,Sneha Saxena,Anjali Patel
+P00380,PROP-100379,Orchid Enclave,L005,Independent House,1165,15,17867997.0,15337.34,New Launch,Under Construction,3,Clubhouse,Leasehold,Karthik Yadav,Samar Shah
+P00381,PROP-100380,Cedar Gardens,L008,Commercial,735,0,9366255.0,12743.2,Resale,Available,3,Gym,Co-operative,Aarav Kapoor,Zoya Yadav
+P00382,PROP-100381,Lake Residency,L001,Plot,1370,0,13276901.0,9691.17,Ready to Move,Available,2,Garden,Leasehold,Simran Sethi,Sara Singh
+P00383,PROP-100382,Green Plaza,L001,Independent House,979,1,19056964.0,19465.74,Ready to Move,Under Construction,1,Garden,Leasehold,Aarohi Bansal,Akash Rao
+P00384,PROP-100383,Maple Heights,L007,Apartment,1160,0,7814295.0,6736.46,Ready to Move,Rented,2,Gym,Freehold,Pranav Jain,Shivani Joshi
+P00385,PROP-100384,Palm Gardens,L002,Apartment,350,10,2081822.0,5948.06,Resale,Rented,3,Clubhouse,Co-operative,Omar Sethi,Shalini Gupta
+P00386,PROP-100385,Palm Gardens,L001,Apartment,1141,15,16579915.0,14531.04,Ready to Move,Available,4,Security,Leasehold,Manish Chopra,Parth Arora
+P00387,PROP-100386,Cedar Residency,L010,Villa,1485,20,19947665.0,13432.77,Under Construction,Rented,1,Clubhouse,Freehold,Suresh Ghosh,Tara Pillai
+P00388,PROP-100387,Cedar Gardens,L008,Independent House,1972,3,20216449.0,10251.75,Resale,Under Construction,4,Lift,Co-operative,Vikram Ghosh,Omar Kashyap
+P00389,PROP-100388,Hill Residency,L006,Commercial,1842,5,10046700.0,5454.23,Ready to Move,Under Construction,1,Pool,Co-operative,Yamini Bansal,Radhika Shetty
+P00390,PROP-100389,Orchid Homes,L004,Apartment,630,8,8267373.0,13122.81,Ready to Move,Rented,3,Lift,Freehold,Ishaan Tripathi,Radhika Singh
+P00391,PROP-100390,Lake Plaza,L008,Commercial,1415,15,25981344.0,18361.37,Ready to Move,Rented,2,Lift,Leasehold,Nandini Sethi,Sneha Chopra
+P00392,PROP-100391,Silver Residency,L006,Apartment,1590,1,15153679.0,9530.62,Under Construction,Available,2,Pool,Freehold,Meera Rawat,Riya Kumar
+P00393,PROP-100392,Orchid Gardens,L011,Apartment,1181,10,4352880.0,3685.76,Under Construction,Sold,2,Lift,Freehold,Rahul Yadav,Juhi Bisht
+P00394,PROP-100393,Green Plaza,L003,Apartment,2336,30,8108335.0,3471.03,Ready to Move,Available,2,Parking,Co-operative,Kabir Reddy,Rohan Dubey
+P00395,PROP-100394,Lake Plaza,L002,Commercial,2497,8,55151318.0,22087.03,Ready to Move,Under Construction,5,Parking,Leasehold,Suresh Rawat,Aman Rao
+P00396,PROP-100395,Hill Residency,L005,Apartment,761,2,6161026.0,8095.96,Under Construction,Sold,1,Parking,Freehold,Kunal Shah,Nikhil Kapoor
+P00397,PROP-100396,Green Enclave,L002,Plot,1395,20,20421846.0,14639.32,Ready to Move,Sold,1,Lift,Leasehold,Nandini Kumar,Arjun Saxena
+P00398,PROP-100397,Silver Gardens,L009,Apartment,1157,20,16500829.0,14261.74,New Launch,Available,3,Security,Leasehold,Anjali Kashyap,Ritika Sinha
+P00399,PROP-100398,Silver Plaza,L001,Independent House,1111,0,15176182.0,13659.93,Under Construction,Under Construction,3,Parking,Leasehold,Mohit Tiwari,Fatima Chauhan
+P00400,PROP-100399,Palm Homes,L010,Independent House,1738,15,24266443.0,13962.28,Ready to Move,Rented,3,Gym,Leasehold,Ira Shetty,Reyansh Chatterjee
+P00401,PROP-100400,Maple Plaza,L003,Independent House,1684,1,6741470.0,4003.25,New Launch,Available,1,Security,Freehold,Harsh Arora,Neha Sethi
+P00402,PROP-100401,Silver Homes,L010,Independent House,1592,10,15079033.0,9471.75,Ready to Move,Available,1,Lift,Freehold,Siddharth Mukherjee,Shivani Mehta
+P00403,PROP-100402,Lake Residency,L001,Apartment,572,0,4595665.0,8034.38,Under Construction,Under Construction,4,Gym,Leasehold,Sneha Malhotra,Vivaan Yadav
+P00404,PROP-100403,Maple Gardens,L003,Independent House,1140,20,10452948.0,9169.25,Resale,Available,4,Gym,Freehold,Karthik Pillai,Naveen Malhotra
+P00405,PROP-100404,Silver Plaza,L011,Apartment,461,1,8240779.0,17875.88,Under Construction,Available,1,Garden,Leasehold,Aarav Joshi,Aman Pawar
+P00406,PROP-100405,Palm Heights,L007,Apartment,1696,8,13090281.0,7718.33,Resale,Available,4,Gym,Freehold,Pranav Kumar,Farhan Tripathi
+P00407,PROP-100406,Orchid Homes,L002,Commercial,1922,10,43132424.0,22441.43,Ready to Move,Available,2,Gym,Leasehold,Saurabh Banerjee,Pallavi Tiwari
+P00408,PROP-100407,Palm Gardens,L002,Commercial,2060,8,40479299.0,19650.14,Ready to Move,Available,3,Gym,Leasehold,Mohit Mukherjee,Parth Mishra
+P00409,PROP-100408,Sunrise Residency,L012,Apartment,1791,2,28113637.0,15697.17,Ready to Move,Rented,4,Security,Co-operative,Priya Dubey,Ira Pawar
+P00410,PROP-100409,Orchid Residency,L010,Apartment,618,8,5970901.0,9661.65,Under Construction,Rented,5,Parking,Co-operative,Priya Patel,Lakshmi Tiwari
+P00411,PROP-100410,Palm Enclave,L009,Apartment,1640,30,17917381.0,10925.23,Under Construction,Sold,3,Lift,Co-operative,Anjali Rao,Anirudh Gupta
+P00412,PROP-100411,Palm Homes,L007,Independent House,3455,8,42260684.0,12231.75,Under Construction,Available,4,Gym,Leasehold,Ananya Reddy,Rakesh Sinha
+P00413,PROP-100412,Maple Plaza,L001,Plot,2062,5,12174766.0,5904.35,Ready to Move,Available,5,Parking,Freehold,Anjali Khanna,Harsh Verma
+P00414,PROP-100413,River Enclave,L006,Apartment,467,1,5752524.0,12318.04,Ready to Move,Available,5,Gym,Leasehold,Manish Verma,Shalini Banerjee
+P00415,PROP-100414,Orchid Gardens,L005,Independent House,1907,5,12713696.0,6666.86,Under Construction,Available,3,Pool,Co-operative,Vikram Reddy,Samar Saxena
+P00416,PROP-100415,Cedar Residency,L010,Apartment,1270,25,9307550.0,7328.78,Ready to Move,Available,3,Garden,Leasehold,Aanya Tripathi,Simran Pillai
+P00417,PROP-100416,River Residency,L007,Apartment,1294,10,5185192.0,4007.1,Ready to Move,Sold,5,Parking,Co-operative,Mohit Shah,Anjali Kumar
+P00418,PROP-100417,Green Gardens,L011,Apartment,2257,5,32148384.0,14243.86,Under Construction,Rented,1,Garden,Co-operative,Aman Iyer,Shreya Bisht
+P00419,PROP-100418,Palm Plaza,L011,Independent House,924,1,10864787.0,11758.43,Under Construction,Under Construction,5,Lift,Leasehold,Omar Chatterjee,Shalini Chatterjee
+P00420,PROP-100419,Sunrise Enclave,L012,Apartment,2014,3,26822872.0,13318.21,Ready to Move,Rented,3,Clubhouse,Leasehold,Kabir Agarwal,Gaurav Tiwari
+P00421,PROP-100420,Lake Heights,L010,Apartment,1392,20,10632214.0,7638.08,Under Construction,Rented,2,Clubhouse,Freehold,Naveen Tripathi,Saurabh Bhatia
+P00422,PROP-100421,Sunrise Heights,L005,Apartment,563,8,4560792.0,8100.87,Resale,Under Construction,1,Clubhouse,Freehold,Nikhil Pandey,Varun Agarwal
+P00423,PROP-100422,Hill Gardens,L012,Apartment,754,15,8817385.0,11694.14,Ready to Move,Rented,5,Clubhouse,Freehold,Divya Bansal,Yamini Saxena
+P00424,PROP-100423,Silver Plaza,L010,Independent House,1933,20,6588947.0,3408.66,Ready to Move,Under Construction,2,Lift,Leasehold,Meera Sinha,Pooja Menon
+P00425,PROP-100424,Silver Residency,L004,Commercial,1340,5,13155387.0,9817.45,Under Construction,Under Construction,2,Clubhouse,Co-operative,Karthik Tiwari,Ritika Nair
+P00426,PROP-100425,Palm Homes,L002,Apartment,1302,0,22545247.0,17315.86,New Launch,Available,5,Clubhouse,Freehold,Aarav Arora,Isha Ghosh
+P00427,PROP-100426,Orchid Residency,L005,Apartment,1293,0,19410916.0,15012.31,Resale,Under Construction,1,Lift,Co-operative,Reyansh Rao,Mohit Chatterjee
+P00428,PROP-100427,Maple Plaza,L002,Commercial,1971,3,25418647.0,12896.32,Under Construction,Available,3,Parking,Co-operative,Vivaan Negi,Pooja Das
+P00429,PROP-100428,Silver Plaza,L004,Independent House,1645,1,7929777.0,4820.53,Ready to Move,Rented,2,Garden,Leasehold,Madhav Bansal,Swati Rawat
+P00430,PROP-100429,Cedar Heights,L012,Independent House,2200,0,22319934.0,10145.42,Ready to Move,Available,3,Pool,Leasehold,Ibrahim Pawar,Aanya Arora
+P00431,PROP-100430,Cedar Gardens,L005,Villa,1641,30,26848736.0,16361.2,New Launch,Rented,4,Security,Leasehold,Ankit Kulkarni,Amit Yadav
+P00432,PROP-100431,River Homes,L004,Plot,1846,20,21530694.0,11663.43,Ready to Move,Available,1,Garden,Leasehold,Siddharth Menon,Nitin Negi
+P00433,PROP-100432,Maple Residency,L009,Commercial,2209,1,27403751.0,12405.5,Ready to Move,Available,3,Clubhouse,Freehold,Harsh Kumar,Ibrahim Kumar
+P00434,PROP-100433,Sunrise Homes,L001,Apartment,1177,2,9243032.0,7853.04,Ready to Move,Available,5,Parking,Freehold,Nikhil Menon,Tara Kohli
+P00435,PROP-100434,Orchid Homes,L010,Independent House,1927,1,11195607.0,5809.86,Resale,Available,4,Gym,Co-operative,Isha Chatterjee,Sanjay Pawar
+P00436,PROP-100435,Cedar Enclave,L008,Apartment,1793,10,29825459.0,16634.39,Ready to Move,Available,4,Lift,Leasehold,Aarohi Mishra,Juhi Menon
+P00437,PROP-100436,Orchid Enclave,L007,Apartment,971,0,15487861.0,15950.42,Resale,Rented,4,Lift,Co-operative,Tanvi Kulkarni,Deepak Kashyap
+P00438,PROP-100437,Hill Gardens,L005,Apartment,1583,25,13990583.0,8838.02,Resale,Rented,4,Lift,Co-operative,Isha Gupta,Samar Sethi
+P00439,PROP-100438,Maple Residency,L011,Apartment,1775,15,21972628.0,12378.95,Resale,Available,2,Gym,Co-operative,Swati Kapoor,Isha Agarwal
+P00440,PROP-100439,Hill Enclave,L008,Plot,1605,15,18515013.0,11535.83,Ready to Move,Available,2,Security,Freehold,Pooja Sethi,Ira Yadav
+P00441,PROP-100440,Maple Gardens,L008,Apartment,887,25,6136911.0,6918.73,Under Construction,Rented,4,Lift,Freehold,Meera Mukherjee,Nitin Kapoor
+P00442,PROP-100441,Hill Homes,L009,Apartment,657,8,6449477.0,9816.55,Resale,Available,4,Clubhouse,Co-operative,Rahul Rawat,Monika Nair
+P00443,PROP-100442,Green Gardens,L004,Independent House,2238,10,33751668.0,15081.17,Ready to Move,Rented,1,Security,Co-operative,Riya Shah,Yash Mishra
+P00444,PROP-100443,Maple Enclave,L003,Apartment,1775,25,6839281.0,3853.12,Under Construction,Rented,1,Security,Co-operative,Ritika Kohli,Sara Chauhan
+P00445,PROP-100444,Orchid Residency,L007,Independent House,1684,1,13764287.0,8173.57,Ready to Move,Rented,3,Lift,Freehold,Vikram Kapoor,Karthik Rawat
+P00446,PROP-100445,Silver Plaza,L002,Villa,1216,1,22420964.0,18438.29,Ready to Move,Sold,2,Garden,Leasehold,Anushka Kumar,Divya Yadav
+P00447,PROP-100446,River Enclave,L004,Apartment,1644,0,14335276.0,8719.75,New Launch,Rented,5,Lift,Freehold,Monika Joshi,Nandini Shetty
+P00448,PROP-100447,Palm Gardens,L004,Apartment,1485,1,14332079.0,9651.23,Ready to Move,Available,5,Clubhouse,Leasehold,Juhi Kulkarni,Rakesh Chauhan
+P00449,PROP-100448,Green Gardens,L011,Apartment,1510,10,17682328.0,11710.15,Ready to Move,Rented,2,Security,Co-operative,Ayesha Rawat,Ishaan Pillai
+P00450,PROP-100449,Lake Residency,L007,Apartment,1147,15,10043237.0,8756.09,Under Construction,Available,2,Security,Freehold,Juhi Shah,Anushka Saxena
+P00451,PROP-100450,Orchid Gardens,L012,Villa,1980,25,26891071.0,13581.35,Ready to Move,Under Construction,4,Lift,Freehold,Sneha Chauhan,Abhishek Mehta
+P00452,PROP-100451,Maple Enclave,L006,Villa,1476,8,19202578.0,13009.88,Under Construction,Sold,4,Pool,Freehold,Kunal Shetty,Shreya Joshi
+P00453,PROP-100452,Hill Plaza,L003,Apartment,1059,8,16314943.0,15405.99,Under Construction,Available,4,Security,Freehold,Aman Bose,Anirudh Verma
+P00454,PROP-100453,Green Enclave,L005,Apartment,813,0,4736656.0,5826.14,Under Construction,Available,3,Security,Freehold,Neha Ghosh,Chirag Dubey
+P00455,PROP-100454,Maple Gardens,L010,Commercial,2245,30,42035235.0,18723.94,Ready to Move,Available,3,Lift,Co-operative,Tanvi Kapoor,Aarohi Pillai
+P00456,PROP-100455,Maple Heights,L007,Independent House,1964,20,6184238.0,3148.8,Resale,Available,3,Lift,Co-operative,Aarav Agarwal,Pooja Kapoor
+P00457,PROP-100456,River Heights,L009,Apartment,2092,5,12337229.0,5897.34,Ready to Move,Rented,1,Gym,Co-operative,Farhan Chopra,Akash Dubey
+P00458,PROP-100457,Sunrise Enclave,L001,Villa,1030,8,5430425.0,5272.26,Resale,Rented,4,Security,Leasehold,Fatima Saxena,Ayesha Patel
+P00459,PROP-100458,Maple Homes,L008,Apartment,1013,2,14244284.0,14061.48,Ready to Move,Sold,4,Clubhouse,Freehold,Rajesh Bose,Divya Gupta
+P00460,PROP-100459,Sunrise Heights,L003,Apartment,1435,1,8036873.0,5600.61,Resale,Sold,3,Security,Freehold,Karthik Kashyap,Nandini Nair
+P00461,PROP-100460,Sunrise Plaza,L001,Independent House,1613,1,22572216.0,13993.93,Ready to Move,Available,3,Garden,Leasehold,Kavya Jain,Ananya Das
+P00462,PROP-100461,Silver Gardens,L011,Apartment,1232,3,17970754.0,14586.65,Resale,Under Construction,3,Security,Co-operative,Nandini Thakur,Vivaan Banerjee
+P00463,PROP-100462,Green Residency,L009,Apartment,1333,0,15664550.0,11751.35,New Launch,Rented,5,Gym,Freehold,Imran Gupta,Aarav Tripathi
+P00464,PROP-100463,River Enclave,L001,Apartment,1012,2,12860358.0,12707.86,Ready to Move,Available,4,Clubhouse,Freehold,Imran Pillai,Varun Dubey
+P00465,PROP-100464,Hill Residency,L011,Independent House,1210,2,5681047.0,4695.08,New Launch,Under Construction,4,Gym,Leasehold,Ishaan Rawat,Siddharth Sethi
+P00466,PROP-100465,Silver Plaza,L012,Apartment,1125,10,3383592.0,3007.64,Under Construction,Sold,2,Clubhouse,Leasehold,Yash Sethi,Tanvi Banerjee
+P00467,PROP-100466,Sunrise Gardens,L007,Commercial,1438,20,15960912.0,11099.38,Ready to Move,Available,4,Security,Co-operative,Samar Patel,Dev Arora
+P00468,PROP-100467,Cedar Homes,L002,Plot,2217,20,36270956.0,16360.38,Resale,Available,3,Security,Leasehold,Aarav Singh,Dev Das
+P00469,PROP-100468,Cedar Gardens,L007,Apartment,801,20,4464776.0,5574.0,Under Construction,Available,5,Clubhouse,Co-operative,Pranav Bisht,Ibrahim Kashyap
+P00470,PROP-100469,Lake Plaza,L003,Independent House,1825,10,6516907.0,3570.91,Ready to Move,Available,1,Gym,Freehold,Sara Bisht,Aditya Kapoor
+P00471,PROP-100470,Orchid Enclave,L010,Apartment,1253,25,7460843.0,5954.38,Ready to Move,Under Construction,2,Garden,Leasehold,Ananya Mehta,Deepak Mukherjee
+P00472,PROP-100471,Orchid Plaza,L009,Apartment,1387,1,20110094.0,14498.99,Ready to Move,Available,5,Gym,Leasehold,Siddharth Iyer,Vivaan Kumar
+P00473,PROP-100472,Silver Residency,L008,Apartment,730,15,3836251.0,5255.14,Ready to Move,Under Construction,3,Lift,Leasehold,Nandini Singh,Abhishek Kulkarni
+P00474,PROP-100473,Lake Residency,L012,Independent House,1820,10,6251522.0,3434.9,Ready to Move,Available,2,Garden,Leasehold,Akash Kohli,Rakesh Pawar
+P00475,PROP-100474,Palm Residency,L002,Apartment,350,1,1478843.0,4225.27,Resale,Rented,4,Parking,Freehold,Sneha Nair,Farhan Saxena
+P00476,PROP-100475,Maple Homes,L009,Apartment,1017,30,3937599.0,3871.78,Ready to Move,Rented,2,Clubhouse,Co-operative,Amit Bansal,Pallavi Desai
+P00477,PROP-100476,Lake Plaza,L009,Apartment,350,2,3316618.0,9476.05,New Launch,Available,5,Garden,Co-operative,Nikhil Mukherjee,Sneha Das
+P00478,PROP-100477,Sunrise Plaza,L003,Commercial,1830,15,10871928.0,5940.94,Under Construction,Available,3,Garden,Freehold,Aanya Rawat,Tanvi Bansal
+P00479,PROP-100478,Lake Heights,L010,Apartment,1247,30,16941687.0,13585.96,Ready to Move,Under Construction,1,Garden,Freehold,Sakshi Bhatia,Shalini Mishra
+P00480,PROP-100479,Hill Enclave,L009,Independent House,2456,20,38598919.0,15716.17,Ready to Move,Available,1,Gym,Freehold,Samar Dubey,Amit Bhatia
+P00481,PROP-100480,Cedar Gardens,L004,Independent House,2117,20,23971178.0,11323.18,Ready to Move,Available,1,Clubhouse,Co-operative,Kavya Verma,Pallavi Chauhan
+P00482,PROP-100481,Hill Residency,L001,Apartment,1246,15,18267507.0,14660.92,Ready to Move,Rented,5,Clubhouse,Leasehold,Samar Mishra,Riya Chauhan
+P00483,PROP-100482,Silver Plaza,L006,Plot,2035,0,14466581.0,7108.89,Resale,Rented,4,Clubhouse,Leasehold,Arjun Ghosh,Payal Menon
+P00484,PROP-100483,Green Homes,L007,Apartment,547,15,7896862.0,14436.68,Ready to Move,Under Construction,3,Security,Co-operative,Manish Reddy,Nandini Chatterjee
+P00485,PROP-100484,Green Heights,L003,Apartment,1259,2,7888245.0,6265.48,Ready to Move,Available,5,Clubhouse,Freehold,Aarav Kashyap,Naveen Ghosh
+P00486,PROP-100485,Hill Residency,L009,Apartment,664,8,5714601.0,8606.33,Ready to Move,Rented,3,Garden,Freehold,Sara Pawar,Monika Tiwari
+P00487,PROP-100486,Palm Plaza,L002,Apartment,350,2,3152594.0,9007.41,New Launch,Available,4,Parking,Co-operative,Rajesh Desai,Zoya Bansal
+P00488,PROP-100487,River Homes,L012,Independent House,2140,8,23831818.0,11136.36,Resale,Available,1,Gym,Leasehold,Shreya Patel,Akash Reddy
+P00489,PROP-100488,Orchid Enclave,L002,Villa,2095,8,12034814.0,5744.54,Resale,Under Construction,2,Security,Freehold,Dev Shetty,Shalini Thakur
+P00490,PROP-100489,Orchid Plaza,L009,Villa,1427,10,5196539.0,3641.58,Ready to Move,Under Construction,3,Pool,Leasehold,Fatima Ghosh,Ananya Agarwal
+P00491,PROP-100490,Maple Enclave,L007,Commercial,1705,8,12932417.0,7585.0,Ready to Move,Rented,5,Lift,Leasehold,Abhishek Kashyap,Harsh Joshi
+P00492,PROP-100491,Silver Heights,L007,Apartment,1011,0,4016304.0,3972.6,Ready to Move,Sold,1,Parking,Co-operative,Swati Bhatia,Ankit Dubey
+P00493,PROP-100492,Palm Plaza,L009,Independent House,1844,5,25032482.0,13575.1,Under Construction,Available,2,Lift,Freehold,Kabir Iyer,Ishaan Pandey
+P00494,PROP-100493,River Plaza,L009,Apartment,1169,10,15609794.0,13353.12,Resale,Rented,2,Lift,Co-operative,Fatima Desai,Ritu Dubey
+P00495,PROP-100494,River Enclave,L003,Independent House,1737,20,15704593.0,9041.22,Ready to Move,Available,5,Gym,Leasehold,Vivek Banerjee,Kavya Menon
+P00496,PROP-100495,Hill Heights,L005,Plot,1699,1,28909108.0,17015.37,Under Construction,Under Construction,1,Gym,Freehold,Juhi Nair,Arjun Singh
+P00497,PROP-100496,Lake Plaza,L007,Plot,2171,0,12523434.0,5768.51,Ready to Move,Available,5,Security,Leasehold,Vikram Saxena,Aanya Thakur
+P00498,PROP-100497,Maple Plaza,L011,Villa,1824,8,19946839.0,10935.77,Under Construction,Available,1,Parking,Leasehold,Isha Bhatia,Harsh Shetty
+P00499,PROP-100498,Silver Heights,L006,Independent House,1411,15,21228154.0,15044.76,Under Construction,Available,1,Lift,Co-operative,Anjali Bisht,Anirudh Khanna
+P00500,PROP-100499,Palm Plaza,L005,Apartment,350,15,2985406.0,8529.73,Resale,Sold,5,Garden,Leasehold,Divya Kohli,Aditi Arora
+P00501,PROP-100500,Silver Residency,L002,Apartment,1337,5,18785199.0,14050.26,Ready to Move,Available,4,Clubhouse,Freehold,Varun Sharma,Kunal Chatterjee
+P00502,PROP-100501,River Homes,L005,Independent House,1850,15,9668308.0,5226.11,Resale,Rented,2,Security,Co-operative,Shreya Malhotra,Manish Bansal
+P00503,PROP-100502,Sunrise Heights,L002,Apartment,1644,1,17656409.0,10739.91,Under Construction,Available,1,Parking,Leasehold,Saurabh Yadav,Sanjay Das
+P00504,PROP-100503,Green Enclave,L008,Commercial,895,5,19813719.0,22138.23,Resale,Available,2,Security,Leasehold,Amit Patel,Amit Das
+P00505,PROP-100504,Lake Enclave,L003,Independent House,2350,0,29332580.0,12481.95,Under Construction,Available,2,Clubhouse,Freehold,Mohit Negi,Chirag Malhotra
+P00506,PROP-100505,Cedar Enclave,L008,Commercial,2018,5,15659299.0,7759.81,Under Construction,Available,3,Clubhouse,Freehold,Aditi Bose,Farhan Mukherjee
+P00507,PROP-100506,Green Enclave,L001,Apartment,1964,20,25635612.0,13052.76,Ready to Move,Rented,2,Pool,Co-operative,Chirag Pawar,Ishaan Pawar
+P00508,PROP-100507,Cedar Gardens,L010,Apartment,920,2,13185381.0,14331.94,Ready to Move,Available,5,Pool,Freehold,Shreya Desai,Samar Reddy
+P00509,PROP-100508,Sunrise Homes,L011,Plot,1903,30,19979863.0,10499.14,Resale,Under Construction,3,Clubhouse,Co-operative,Rakesh Saxena,Rajesh Sinha
+P00510,PROP-100509,Sunrise Residency,L007,Independent House,1981,8,12278847.0,6198.31,Resale,Available,1,Gym,Co-operative,Aman Singh,Payal Mehta
+P00511,PROP-100510,Hill Residency,L008,Apartment,866,15,9300869.0,10740.03,Ready to Move,Under Construction,2,Gym,Freehold,Akash Saxena,Samar Kumar
+P00512,PROP-100511,Cedar Residency,L005,Independent House,2172,3,18758040.0,8636.3,New Launch,Rented,3,Security,Freehold,Aarav Bose,Meera Bose
+P00513,PROP-100512,River Plaza,L002,Apartment,2279,5,30006003.0,13166.3,Ready to Move,Under Construction,4,Pool,Freehold,Vikram Gupta,Aarav Khanna
+P00514,PROP-100513,Silver Enclave,L005,Commercial,1447,10,32916130.0,22747.84,Ready to Move,Rented,2,Parking,Co-operative,Isha Iyer,Meera Das
+P00515,PROP-100514,Maple Residency,L012,Independent House,1663,10,17193468.0,10338.83,Ready to Move,Available,3,Gym,Co-operative,Neha Agarwal,Pooja Rawat
+P00516,PROP-100515,Cedar Heights,L003,Commercial,2127,0,27644932.0,12997.15,Ready to Move,Available,4,Security,Leasehold,Samar Rao,Aditya Yadav
+P00517,PROP-100516,Sunrise Enclave,L005,Plot,2480,5,26125869.0,10534.62,Ready to Move,Available,2,Clubhouse,Leasehold,Karthik Kohli,Kunal Singh
+P00518,PROP-100517,River Enclave,L008,Apartment,350,20,2587915.0,7394.04,Ready to Move,Available,3,Lift,Co-operative,Ankit Mishra,Radhika Pillai
+P00519,PROP-100518,Hill Homes,L008,Commercial,1391,1,11888488.0,8546.72,Ready to Move,Under Construction,2,Clubhouse,Leasehold,Nisha Kohli,Abhishek Malhotra
+P00520,PROP-100519,Hill Gardens,L002,Independent House,2165,1,17374938.0,8025.38,Ready to Move,Available,4,Parking,Co-operative,Ritu Tripathi,Ishaan Banerjee
+P00521,PROP-100520,Cedar Residency,L004,Independent House,1351,20,11681375.0,8646.47,Resale,Available,3,Clubhouse,Co-operative,Karthik Tripathi,Parth Kulkarni
+P00522,PROP-100521,River Homes,L007,Apartment,1437,25,19516999.0,13581.77,Ready to Move,Rented,2,Garden,Freehold,Siddharth Ghosh,Aarohi Banerjee
+P00523,PROP-100522,Palm Gardens,L005,Independent House,2258,5,30574061.0,13540.33,Ready to Move,Available,2,Gym,Co-operative,Sakshi Yadav,Vivek Negi
+P00524,PROP-100523,Lake Gardens,L002,Apartment,911,10,4834521.0,5306.83,Ready to Move,Available,4,Clubhouse,Leasehold,Parth Verma,Rahul Verma
+P00525,PROP-100524,Green Heights,L005,Villa,1675,8,28385975.0,16946.85,Under Construction,Available,5,Garden,Freehold,Aarav Mehta,Vivek Yadav
+P00526,PROP-100525,Maple Plaza,L011,Independent House,1660,15,23169160.0,13957.33,Ready to Move,Rented,1,Pool,Co-operative,Isha Menon,Nisha Tiwari
+P00527,PROP-100526,Palm Enclave,L010,Independent House,1443,20,11900580.0,8247.11,Ready to Move,Under Construction,2,Parking,Freehold,Payal Chauhan,Imran Thakur
+P00528,PROP-100527,Maple Heights,L003,Commercial,1551,15,12223728.0,7881.19,Resale,Under Construction,1,Parking,Leasehold,Nandini Kulkarni,Harsh Pillai
+P00529,PROP-100528,Palm Gardens,L003,Apartment,958,10,8820520.0,9207.22,Ready to Move,Under Construction,3,Lift,Leasehold,Reyansh Mishra,Kavya Banerjee
+P00530,PROP-100529,Sunrise Plaza,L007,Independent House,1541,10,13139483.0,8526.6,Under Construction,Available,4,Pool,Freehold,Diya Mehta,Rahul Tiwari
+P00531,PROP-100530,Hill Residency,L007,Commercial,1669,10,6995589.0,4191.49,Under Construction,Rented,2,Security,Co-operative,Aman Das,Shalini Kohli
+P00532,PROP-100531,River Heights,L010,Independent House,1831,1,18067206.0,9867.4,Ready to Move,Available,4,Garden,Co-operative,Nisha Sharma,Amit Mukherjee
+P00533,PROP-100532,Hill Enclave,L001,Apartment,2288,2,15885876.0,6943.13,Resale,Sold,1,Security,Leasehold,Simran Nair,Pallavi Sethi
+P00534,PROP-100533,Silver Enclave,L010,Independent House,2498,0,11821372.0,4732.33,Ready to Move,Rented,3,Pool,Co-operative,Yamini Das,Rakesh Kulkarni
+P00535,PROP-100534,Silver Heights,L003,Apartment,630,20,9324752.0,14801.19,New Launch,Rented,3,Pool,Freehold,Neha Gupta,Priya Singh
+P00536,PROP-100535,Lake Homes,L002,Apartment,1181,0,24906179.0,21089.06,New Launch,Available,1,Garden,Co-operative,Arjun Shetty,Fatima Shah
+P00537,PROP-100536,Cedar Residency,L001,Apartment,738,10,8601433.0,11655.06,Under Construction,Sold,2,Garden,Freehold,Deepak Chatterjee,Kabir Gupta
+P00538,PROP-100537,Hill Gardens,L003,Commercial,2260,10,25240879.0,11168.53,Ready to Move,Available,3,Parking,Co-operative,Priya Kapoor,Samar Nair
+P00539,PROP-100538,Sunrise Heights,L002,Apartment,350,0,2062619.0,5893.2,Resale,Available,4,Garden,Co-operative,Kunal Ghosh,Bhavna Pandey
+P00540,PROP-100539,Lake Homes,L008,Apartment,2219,2,18351019.0,8269.95,Ready to Move,Available,4,Garden,Freehold,Diya Pawar,Diya Khanna
+P00541,PROP-100540,Sunrise Residency,L011,Plot,1189,10,8357927.0,7029.37,Under Construction,Rented,1,Garden,Freehold,Saurabh Sinha,Saurabh Kashyap
+P00542,PROP-100541,Orchid Gardens,L007,Apartment,1614,2,8017159.0,4967.26,Ready to Move,Available,2,Gym,Leasehold,Abhishek Singh,Shivani Tiwari
+P00543,PROP-100542,Maple Residency,L007,Apartment,2041,1,27099375.0,13277.5,New Launch,Available,5,Lift,Freehold,Suresh Pawar,Yash Kashyap
+P00544,PROP-100543,Hill Gardens,L001,Villa,1502,1,10802523.0,7192.09,Resale,Available,2,Garden,Leasehold,Rahul Sharma,Shweta Bansal
+P00545,PROP-100544,River Gardens,L006,Apartment,1585,1,13832367.0,8727.05,Ready to Move,Rented,2,Pool,Freehold,Nisha Rao,Deepak Chopra
+P00546,PROP-100545,Maple Homes,L009,Independent House,1650,8,13590997.0,8236.97,Ready to Move,Under Construction,2,Pool,Leasehold,Priya Negi,Simran Dubey
+P00547,PROP-100546,Sunrise Plaza,L005,Villa,1833,25,9410445.0,5133.9,Ready to Move,Available,4,Clubhouse,Co-operative,Monika Negi,Tara Singh
+P00548,PROP-100547,Orchid Heights,L002,Apartment,1069,15,15604475.0,14597.26,New Launch,Rented,3,Parking,Leasehold,Imran Desai,Nisha Bansal
+P00549,PROP-100548,Hill Heights,L002,Apartment,1508,25,13181543.0,8741.08,New Launch,Rented,5,Parking,Co-operative,Kavya Sharma,Neha Patel
+P00550,PROP-100549,Sunrise Residency,L004,Apartment,350,10,5128365.0,14652.47,Ready to Move,Available,4,Gym,Leasehold,Yash Nair,Yash Malhotra
+P00551,PROP-100550,Maple Enclave,L006,Commercial,2116,10,11774793.0,5564.65,Resale,Rented,3,Pool,Leasehold,Rahul Desai,Aditi Banerjee
+P00552,PROP-100551,Lake Enclave,L001,Independent House,1760,15,19884944.0,11298.26,Resale,Under Construction,5,Pool,Co-operative,Ritika Khanna,Chirag Chauhan
+P00553,PROP-100552,Maple Enclave,L010,Independent House,2154,10,8099619.0,3760.27,Resale,Under Construction,3,Pool,Co-operative,Ibrahim Sethi,Zoya Kumar
+P00554,PROP-100553,Orchid Enclave,L011,Independent House,1716,0,31450573.0,18327.84,Ready to Move,Sold,4,Pool,Co-operative,Tanvi Bisht,Aanya Singh
+P00555,PROP-100554,River Plaza,L005,Independent House,1203,3,5834894.0,4850.29,Under Construction,Available,1,Lift,Co-operative,Vivaan Rao,Saurabh Saxena
+P00556,PROP-100555,Orchid Enclave,L009,Commercial,1624,5,32448384.0,19980.53,Resale,Rented,2,Gym,Leasehold,Shivani Malhotra,Kavya Malhotra
+P00557,PROP-100556,Silver Residency,L005,Apartment,1300,25,23291339.0,17916.41,Ready to Move,Available,2,Garden,Co-operative,Deepak Verma,Nitin Rao
+P00558,PROP-100557,Silver Residency,L010,Apartment,573,0,6551132.0,11433.04,Under Construction,Under Construction,3,Pool,Freehold,Rakesh Das,Swati Banerjee
+P00559,PROP-100558,Green Homes,L003,Apartment,1153,10,4963397.0,4304.77,Ready to Move,Under Construction,5,Gym,Leasehold,Kunal Kulkarni,Aarohi Kohli
+P00560,PROP-100559,Orchid Gardens,L011,Commercial,1325,25,8482492.0,6401.88,Ready to Move,Rented,3,Garden,Leasehold,Sanjay Khanna,Ishaan Bhatia
+P00561,PROP-100560,Sunrise Residency,L002,Independent House,2018,15,32558566.0,16134.08,New Launch,Available,2,Garden,Freehold,Aarav Iyer,Sakshi Bose
+P00562,PROP-100561,Silver Homes,L003,Apartment,1306,0,20179777.0,15451.59,Under Construction,Available,1,Gym,Co-operative,Kabir Rao,Anirudh Mishra
+P00563,PROP-100562,Lake Residency,L006,Villa,2000,2,24136250.0,12068.13,New Launch,Available,3,Gym,Freehold,Sanjay Ghosh,Shweta Khanna
+P00564,PROP-100563,Orchid Residency,L012,Independent House,2680,15,14333570.0,5348.35,Ready to Move,Under Construction,4,Clubhouse,Co-operative,Aarohi Saxena,Simran Joshi
+P00565,PROP-100564,Palm Residency,L009,Apartment,1370,1,24728474.0,18049.98,Resale,Under Construction,5,Pool,Co-operative,Diya Chopra,Sakshi Shah
+P00566,PROP-100565,Lake Gardens,L011,Independent House,1862,3,21632384.0,11617.82,Ready to Move,Available,3,Parking,Leasehold,Farhan Kashyap,Anjali Desai
+P00567,PROP-100566,Silver Enclave,L012,Apartment,1456,3,11511373.0,7906.16,Resale,Rented,1,Clubhouse,Leasehold,Ritika Mishra,Kunal Patel
+P00568,PROP-100567,Lake Enclave,L012,Apartment,933,2,12285795.0,13168.06,Ready to Move,Available,3,Clubhouse,Co-operative,Tara Malhotra,Anirudh Shah
+P00569,PROP-100568,Sunrise Gardens,L009,Apartment,2306,8,9998379.0,4335.81,Ready to Move,Rented,5,Parking,Leasehold,Ankit Shetty,Kunal Rao
+P00570,PROP-100569,Maple Heights,L010,Independent House,1463,10,9658160.0,6601.61,Under Construction,Sold,4,Garden,Freehold,Yamini Singh,Reyansh Tripathi
+P00571,PROP-100570,Lake Heights,L008,Independent House,1714,10,9146121.0,5336.13,New Launch,Available,2,Pool,Leasehold,Parth Patel,Anjali Das
+P00572,PROP-100571,Hill Enclave,L002,Apartment,1335,5,5131171.0,3843.57,Ready to Move,Rented,4,Garden,Leasehold,Deepak Khanna,Abhishek Tiwari
+P00573,PROP-100572,Hill Gardens,L006,Apartment,1051,1,16643230.0,15835.61,Ready to Move,Under Construction,1,Security,Leasehold,Sneha Arora,Nikhil Sinha
+P00574,PROP-100573,Hill Plaza,L005,Apartment,1627,8,28602777.0,17580.07,Ready to Move,Rented,2,Pool,Leasehold,Vivek Bansal,Lakshmi Kulkarni
+P00575,PROP-100574,Orchid Plaza,L002,Commercial,2127,20,25541350.0,12008.16,Under Construction,Rented,1,Garden,Leasehold,Shweta Sinha,Saurabh Chauhan
+P00576,PROP-100575,Palm Gardens,L008,Apartment,997,2,8986093.0,9013.13,Ready to Move,Available,3,Parking,Co-operative,Mohit Bose,Shivani Sharma
+P00577,PROP-100576,Sunrise Homes,L007,Apartment,1544,3,20311564.0,13155.16,Ready to Move,Rented,5,Pool,Freehold,Ishaan Joshi,Pallavi Pandey
+P00578,PROP-100577,Maple Residency,L005,Apartment,1450,15,21044928.0,14513.74,Ready to Move,Under Construction,2,Lift,Freehold,Shalini Kapoor,Kavya Kashyap
+P00579,PROP-100578,Hill Gardens,L012,Independent House,1759,10,27623646.0,15704.18,Ready to Move,Sold,4,Parking,Leasehold,Radhika Thakur,Varun Kapoor
+P00580,PROP-100579,Maple Gardens,L007,Villa,2142,10,11847106.0,5530.86,New Launch,Available,3,Parking,Freehold,Isha Thakur,Aarohi Jain
+P00581,PROP-100580,Maple Enclave,L004,Apartment,1222,8,7253618.0,5935.86,Ready to Move,Rented,5,Parking,Co-operative,Riya Bhatia,Dev Saxena
+P00582,PROP-100581,Silver Heights,L002,Apartment,1566,30,27704770.0,17691.42,Resale,Rented,5,Lift,Leasehold,Reyansh Gupta,Naveen Kumar
+P00583,PROP-100582,Silver Homes,L004,Apartment,1534,5,21121456.0,13768.88,Ready to Move,Rented,5,Security,Co-operative,Sneha Bhatia,Suresh Thakur
+P00584,PROP-100583,Sunrise Residency,L008,Plot,2034,10,36936878.0,18159.72,Ready to Move,Rented,1,Parking,Leasehold,Aditya Verma,Isha Singh
+P00585,PROP-100584,Green Residency,L005,Independent House,1896,5,28117594.0,14829.95,Ready to Move,Rented,4,Gym,Co-operative,Saurabh Mishra,Ritika Das
+P00586,PROP-100585,Maple Heights,L005,Commercial,1455,15,30785663.0,21158.53,Under Construction,Available,2,Security,Leasehold,Shreya Pandey,Ishaan Tiwari
+P00587,PROP-100586,Palm Plaza,L006,Apartment,596,20,3403710.0,5710.92,Ready to Move,Sold,3,Lift,Freehold,Manish Shetty,Vivek Singh
+P00588,PROP-100587,Orchid Heights,L006,Apartment,1634,10,17825966.0,10909.4,Ready to Move,Rented,4,Lift,Leasehold,Chirag Das,Amit Sinha
+P00589,PROP-100588,Maple Gardens,L006,Apartment,1463,15,11492725.0,7855.59,Under Construction,Sold,5,Clubhouse,Co-operative,Arjun Reddy,Pranav Negi
+P00590,PROP-100589,Orchid Homes,L011,Apartment,1231,15,11818777.0,9600.96,Ready to Move,Available,2,Parking,Freehold,Rohan Kashyap,Vivaan Joshi
+P00591,PROP-100590,Palm Residency,L006,Apartment,908,1,11929441.0,13138.15,Ready to Move,Sold,3,Pool,Co-operative,Ibrahim Saxena,Shreya Ghosh
+P00592,PROP-100591,Lake Enclave,L007,Villa,1835,0,32418039.0,17666.51,New Launch,Under Construction,3,Clubhouse,Co-operative,Ayesha Das,Vivaan Iyer
+P00593,PROP-100592,River Enclave,L003,Commercial,1730,8,12195767.0,7049.58,Ready to Move,Rented,2,Lift,Freehold,Radhika Desai,Dev Kohli
+P00594,PROP-100593,Lake Plaza,L012,Apartment,1079,15,9554790.0,8855.23,Ready to Move,Available,5,Parking,Leasehold,Nandini Rawat,Arjun Negi
+P00595,PROP-100594,Green Residency,L007,Apartment,1331,5,7363144.0,5532.04,Ready to Move,Under Construction,2,Security,Co-operative,Fatima Sethi,Ira Patel
+P00596,PROP-100595,Silver Residency,L003,Plot,2024,0,33673518.0,16637.11,Resale,Rented,4,Gym,Co-operative,Harsh Tiwari,Vikram Bhatia
+P00597,PROP-100596,River Residency,L001,Apartment,1104,10,16399265.0,14854.41,Ready to Move,Available,1,Lift,Co-operative,Reyansh Kohli,Deepak Chauhan
+P00598,PROP-100597,Cedar Enclave,L005,Plot,1994,1,29404883.0,14746.68,New Launch,Rented,4,Gym,Co-operative,Riya Yadav,Aarohi Mukherjee
+P00599,PROP-100598,Orchid Plaza,L002,Apartment,1929,30,34389849.0,17827.81,New Launch,Available,1,Gym,Leasehold,Tanvi Joshi,Rohan Yadav
+P00600,PROP-100599,Silver Enclave,L010,Apartment,2553,8,37576302.0,14718.49,Ready to Move,Available,4,Security,Co-operative,Kabir Sethi,Anjali Pillai
+P00601,PROP-100600,Hill Homes,L010,Commercial,2281,8,34580959.0,15160.44,New Launch,Available,5,Security,Freehold,Lakshmi Khanna,Yash Pandey
+P00602,PROP-100601,Hill Heights,L001,Independent House,2112,25,24262646.0,11488.0,New Launch,Available,1,Security,Freehold,Saurabh Pawar,Arjun Kashyap
+P00603,PROP-100602,Lake Residency,L007,Independent House,1991,15,7148570.0,3590.44,Ready to Move,Available,4,Parking,Freehold,Pooja Iyer,Mohit Sinha
+P00604,PROP-100603,Green Homes,L008,Plot,1049,2,6943084.0,6618.76,Ready to Move,Rented,4,Garden,Co-operative,Ayesha Bhatia,Mansi Kapoor
+P00605,PROP-100604,Green Heights,L001,Apartment,1652,8,23635546.0,14307.23,Ready to Move,Rented,5,Pool,Leasehold,Ibrahim Bhatia,Chirag Khanna
+P00606,PROP-100605,Orchid Homes,L011,Apartment,1420,8,10661870.0,7508.36,Under Construction,Rented,4,Parking,Freehold,Shreya Shah,Manish Iyer
+P00607,PROP-100606,Maple Enclave,L009,Villa,903,30,5882752.0,6514.68,Ready to Move,Available,2,Garden,Co-operative,Ira Tiwari,Suresh Banerjee
+P00608,PROP-100607,Cedar Residency,L003,Commercial,1878,5,22448439.0,11953.38,Ready to Move,Available,3,Pool,Leasehold,Radhika Kohli,Saurabh Menon
+P00609,PROP-100608,Green Heights,L008,Apartment,1523,25,12533778.0,8229.66,Ready to Move,Available,4,Security,Leasehold,Samar Shetty,Radhika Patel
+P00610,PROP-100609,Hill Residency,L007,Independent House,1468,2,14884350.0,10139.2,Ready to Move,Available,1,Security,Freehold,Aditya Shah,Zoya Agarwal
+P00611,PROP-100610,Hill Residency,L010,Apartment,1571,1,8934140.0,5686.91,Under Construction,Sold,1,Garden,Co-operative,Shivani Bansal,Neha Bansal
+P00612,PROP-100611,Sunrise Homes,L011,Independent House,1824,20,7874576.0,4317.2,Resale,Under Construction,2,Pool,Freehold,Samar Desai,Meera Negi
+P00613,PROP-100612,Orchid Residency,L010,Apartment,1585,0,15067626.0,9506.39,Ready to Move,Sold,4,Pool,Co-operative,Ibrahim Singh,Samar Chauhan
+P00614,PROP-100613,Orchid Enclave,L008,Plot,1767,1,9802081.0,5547.3,Ready to Move,Available,5,Pool,Leasehold,Ananya Kohli,Kunal Jain
+P00615,PROP-100614,Sunrise Enclave,L008,Apartment,1642,15,20472071.0,12467.77,New Launch,Available,4,Clubhouse,Freehold,Yash Das,Vivek Chopra
+P00616,PROP-100615,Hill Enclave,L010,Apartment,828,20,7302941.0,8819.98,Ready to Move,Rented,3,Garden,Co-operative,Deepak Nair,Pooja Gupta
+P00617,PROP-100616,River Heights,L009,Apartment,770,1,5653157.0,7341.76,New Launch,Rented,2,Garden,Co-operative,Rahul Pawar,Nandini Gupta
+P00618,PROP-100617,Green Homes,L003,Apartment,1540,15,6392686.0,4151.09,Ready to Move,Available,1,Security,Leasehold,Yamini Sethi,Kavya Kumar
+P00619,PROP-100618,Cedar Heights,L005,Independent House,2178,5,30082846.0,13812.14,Ready to Move,Under Construction,2,Pool,Freehold,Vivek Tiwari,Ananya Banerjee
+P00620,PROP-100619,Palm Homes,L003,Independent House,1730,20,8915443.0,5153.44,Ready to Move,Under Construction,2,Lift,Freehold,Shalini Bisht,Saurabh Bose
+P00621,PROP-100620,Maple Gardens,L011,Apartment,1676,20,17912237.0,10687.49,Resale,Rented,2,Pool,Co-operative,Reyansh Iyer,Madhav Kapoor
+P00622,PROP-100621,Sunrise Enclave,L011,Independent House,2304,25,8177874.0,3549.42,Under Construction,Rented,5,Lift,Co-operative,Kunal Khanna,Mohit Kashyap
+P00623,PROP-100622,Palm Residency,L010,Apartment,1719,0,19288250.0,11220.62,Ready to Move,Rented,5,Parking,Co-operative,Neha Rawat,Ibrahim Mukherjee
+P00624,PROP-100623,Green Homes,L009,Villa,2163,20,28183764.0,13029.94,Resale,Available,2,Clubhouse,Freehold,Imran Reddy,Vikram Iyer
+P00625,PROP-100624,Orchid Homes,L012,Apartment,1231,1,16047840.0,13036.43,Under Construction,Rented,5,Lift,Leasehold,Pallavi Gupta,Simran Kumar
+P00626,PROP-100625,Maple Enclave,L009,Independent House,2094,25,25316951.0,12090.23,Under Construction,Available,5,Security,Freehold,Imran Verma,Anirudh Bisht
+P00627,PROP-100626,Maple Plaza,L008,Independent House,1962,2,36116798.0,18408.15,Resale,Rented,1,Garden,Leasehold,Tanvi Tiwari,Naveen Arora
+P00628,PROP-100627,Green Homes,L012,Independent House,1076,3,14755671.0,13713.45,Ready to Move,Available,5,Parking,Leasehold,Ankit Patel,Rajesh Sethi
+P00629,PROP-100628,Cedar Homes,L009,Apartment,719,5,2893074.0,4023.75,Under Construction,Under Construction,3,Parking,Co-operative,Radhika Sinha,Rakesh Verma
+P00630,PROP-100629,River Enclave,L001,Apartment,2001,30,18954524.0,9472.53,Ready to Move,Available,1,Lift,Leasehold,Aarohi Chatterjee,Akash Kulkarni
+P00631,PROP-100630,Palm Enclave,L009,Plot,1381,15,10387897.0,7522.01,Resale,Under Construction,1,Lift,Leasehold,Kavya Pawar,Sara Kumar
+P00632,PROP-100631,Palm Gardens,L012,Apartment,350,10,3652683.0,10436.24,Resale,Available,5,Gym,Co-operative,Simran Arora,Swati Negi
+P00633,PROP-100632,Green Plaza,L003,Apartment,1452,1,10903439.0,7509.26,Ready to Move,Under Construction,4,Clubhouse,Leasehold,Vivek Kohli,Reyansh Rawat
+P00634,PROP-100633,Sunrise Homes,L009,Apartment,861,8,4046176.0,4699.39,Ready to Move,Available,2,Lift,Co-operative,Rahul Shah,Deepak Reddy
+P00635,PROP-100634,Palm Heights,L005,Commercial,1883,20,14962897.0,7946.31,Ready to Move,Under Construction,4,Lift,Freehold,Shalini Bose,Anjali Chauhan
+P00636,PROP-100635,Green Homes,L001,Villa,2473,0,32665809.0,13208.98,Ready to Move,Under Construction,4,Gym,Leasehold,Ananya Sharma,Priya Menon
+P00637,PROP-100636,Orchid Enclave,L008,Plot,1978,15,31789291.0,16071.43,Ready to Move,Under Construction,4,Lift,Co-operative,Ibrahim Rawat,Ritika Pillai
+P00638,PROP-100637,Sunrise Residency,L001,Villa,2040,15,15100419.0,7402.17,Ready to Move,Rented,1,Pool,Leasehold,Vivaan Khanna,Omar Banerjee
+P00639,PROP-100638,Green Residency,L012,Independent House,2154,5,20323505.0,9435.24,Under Construction,Sold,3,Parking,Freehold,Payal Negi,Vivek Sinha
+P00640,PROP-100639,Silver Enclave,L006,Apartment,1326,20,6039950.0,4555.02,Ready to Move,Available,4,Garden,Co-operative,Yamini Rao,Gaurav Sethi
+P00641,PROP-100640,Palm Plaza,L002,Apartment,629,15,9351401.0,14867.09,Resale,Available,2,Security,Leasehold,Dev Pillai,Zoya Tiwari
+P00642,PROP-100641,Hill Enclave,L012,Apartment,1472,0,12202515.0,8289.75,Ready to Move,Under Construction,2,Pool,Leasehold,Saurabh Mehta,Shreya Jain
+P00643,PROP-100642,Silver Residency,L001,Apartment,913,25,4164766.0,4561.63,Ready to Move,Rented,1,Garden,Leasehold,Neha Bose,Varun Desai
+P00644,PROP-100643,Lake Heights,L008,Apartment,779,5,12971776.0,16651.83,Resale,Available,3,Clubhouse,Leasehold,Kabir Khanna,Ira Malhotra
+P00645,PROP-100644,Sunrise Plaza,L009,Independent House,804,5,5823980.0,7243.76,Ready to Move,Available,1,Parking,Freehold,Shweta Agarwal,Yash Thakur
+P00646,PROP-100645,Lake Homes,L006,Independent House,1211,8,11620296.0,9595.62,Ready to Move,Available,3,Gym,Leasehold,Ishaan Chatterjee,Aditya Chauhan
+P00647,PROP-100646,Hill Plaza,L003,Commercial,1787,30,7065828.0,3954.02,Ready to Move,Rented,3,Garden,Co-operative,Shalini Joshi,Akash Pawar
+P00648,PROP-100647,Orchid Plaza,L011,Independent House,1430,2,18233675.0,12750.82,Ready to Move,Rented,1,Security,Leasehold,Ishaan Iyer,Swati Chopra
+P00649,PROP-100648,Cedar Heights,L003,Apartment,1193,2,9666369.0,8102.57,Ready to Move,Available,4,Security,Co-operative,Sakshi Patel,Zoya Bisht
+P00650,PROP-100649,Silver Heights,L010,Apartment,862,2,9138362.0,10601.35,Ready to Move,Available,2,Gym,Freehold,Pallavi Kohli,Ananya Pandey
+P00651,PROP-100650,Silver Homes,L006,Apartment,2235,25,22635267.0,10127.64,Ready to Move,Sold,5,Parking,Leasehold,Dev Bose,Riya Bose
+P00652,PROP-100651,Orchid Homes,L008,Apartment,1961,8,27163619.0,13851.92,Under Construction,Under Construction,3,Security,Co-operative,Chirag Bhatia,Ananya Gupta
+P00653,PROP-100652,Cedar Residency,L005,Commercial,2065,20,29209485.0,14145.03,Resale,Available,1,Parking,Freehold,Ritika Mukherjee,Akash Yadav
+P00654,PROP-100653,Silver Enclave,L003,Apartment,1559,10,24014168.0,15403.57,Under Construction,Under Construction,2,Lift,Leasehold,Manish Kumar,Harsh Reddy
+P00655,PROP-100654,Sunrise Enclave,L011,Apartment,641,3,11000667.0,17161.73,Ready to Move,Under Construction,4,Lift,Leasehold,Sanjay Banerjee,Anjali Saxena
+P00656,PROP-100655,Green Residency,L008,Commercial,1117,10,10928214.0,9783.54,Ready to Move,Available,4,Parking,Freehold,Lakshmi Menon,Radhika Khanna
+P00657,PROP-100656,Sunrise Homes,L012,Apartment,1783,1,19099284.0,10711.88,Ready to Move,Rented,3,Clubhouse,Freehold,Aman Sethi,Meera Jain
+P00658,PROP-100657,Hill Residency,L008,Villa,2079,25,24169250.0,11625.42,New Launch,Rented,5,Garden,Freehold,Vikram Bansal,Omar Saxena
+P00659,PROP-100658,Orchid Plaza,L010,Apartment,1136,0,16170001.0,14234.16,Under Construction,Rented,4,Gym,Co-operative,Yash Khanna,Kunal Dubey
+P00660,PROP-100659,Hill Residency,L007,Commercial,1663,10,26279390.0,15802.4,New Launch,Under Construction,5,Security,Leasehold,Sanjay Yadav,Vivek Verma
+P00661,PROP-100660,Maple Residency,L011,Apartment,1054,3,7150708.0,6784.35,Ready to Move,Sold,5,Lift,Leasehold,Aanya Rao,Yash Shah
+P00662,PROP-100661,Orchid Gardens,L005,Villa,2443,20,10915521.0,4468.08,Resale,Available,1,Garden,Co-operative,Parth Mehta,Fatima Mehta
+P00663,PROP-100662,Green Plaza,L010,Apartment,1089,5,6256536.0,5745.21,Ready to Move,Available,3,Parking,Freehold,Ritika Patel,Kunal Kumar
+P00664,PROP-100663,Silver Homes,L002,Villa,2208,0,26001495.0,11776.04,Ready to Move,Available,4,Lift,Leasehold,Juhi Mishra,Rakesh Patel
+P00665,PROP-100664,Hill Heights,L004,Independent House,2360,20,33823769.0,14332.11,Resale,Available,2,Garden,Co-operative,Ishaan Yadav,Vivaan Pillai
+P00666,PROP-100665,Orchid Residency,L001,Apartment,2409,0,18117836.0,7520.89,Ready to Move,Under Construction,1,Parking,Leasehold,Monika Agarwal,Naveen Singh
+P00667,PROP-100666,Orchid Homes,L006,Plot,1893,1,27050697.0,14289.86,Resale,Available,1,Pool,Co-operative,Naveen Chopra,Siddharth Khanna
+P00668,PROP-100667,Hill Homes,L011,Apartment,1429,1,10155611.0,7106.8,Ready to Move,Under Construction,1,Clubhouse,Freehold,Samar Gupta,Pranav Patel
+P00669,PROP-100668,Palm Plaza,L011,Apartment,1370,8,12940481.0,9445.61,Ready to Move,Under Construction,4,Clubhouse,Freehold,Dev Singh,Shreya Tiwari
+P00670,PROP-100669,Sunrise Homes,L002,Villa,2800,0,40290882.0,14389.6,Under Construction,Under Construction,1,Pool,Leasehold,Amit Chopra,Ibrahim Das
+P00671,PROP-100670,Silver Homes,L008,Apartment,1203,3,17763622.0,14766.1,Under Construction,Available,4,Security,Co-operative,Ananya Arora,Arjun Chauhan
+P00672,PROP-100671,Lake Plaza,L001,Independent House,1609,5,18973487.0,11792.1,Resale,Rented,4,Pool,Leasehold,Arjun Sinha,Tanvi Chopra
+P00673,PROP-100672,River Enclave,L009,Plot,1608,5,5294499.0,3292.6,Under Construction,Rented,3,Lift,Freehold,Shalini Sinha,Nitin Shetty
+P00674,PROP-100673,Sunrise Gardens,L004,Apartment,1184,20,16639647.0,14053.76,Under Construction,Rented,3,Gym,Leasehold,Shreya Reddy,Gaurav Pandey
+P00675,PROP-100674,Lake Residency,L007,Apartment,847,15,11075139.0,13075.72,Ready to Move,Sold,3,Gym,Freehold,Shreya Arora,Chirag Kumar
+P00676,PROP-100675,Hill Gardens,L002,Apartment,1377,15,19781425.0,14365.6,Under Construction,Sold,3,Security,Leasehold,Kavya Agarwal,Isha Nair
+P00677,PROP-100676,Sunrise Residency,L012,Apartment,1577,15,21520367.0,13646.4,Ready to Move,Available,4,Gym,Freehold,Tara Desai,Aarav Sharma
+P00678,PROP-100677,Sunrise Residency,L003,Independent House,2103,8,12359504.0,5877.08,Ready to Move,Sold,1,Parking,Co-operative,Bhavna Bansal,Akash Singh
+P00679,PROP-100678,Orchid Residency,L004,Commercial,1588,10,8354520.0,5261.03,Resale,Rented,5,Gym,Co-operative,Imran Menon,Madhav Bose
+P00680,PROP-100679,Silver Enclave,L001,Independent House,1220,15,13301612.0,10902.96,Under Construction,Rented,5,Security,Co-operative,Meera Kohli,Ira Kapoor
+P00681,PROP-100680,Green Heights,L011,Independent House,1366,10,10910665.0,7987.31,Ready to Move,Available,5,Pool,Freehold,Nitin Pandey,Pranav Chatterjee
+P00682,PROP-100681,Maple Homes,L002,Apartment,545,25,9339790.0,17137.23,Ready to Move,Rented,1,Security,Freehold,Nitin Pawar,Rohan Negi
+P00683,PROP-100682,Cedar Enclave,L008,Apartment,814,5,12984418.0,15951.37,Ready to Move,Available,1,Garden,Co-operative,Rahul Khanna,Abhishek Pawar
+P00684,PROP-100683,Silver Heights,L007,Independent House,2160,2,21684870.0,10039.29,Resale,Available,2,Gym,Leasehold,Parth Joshi,Fatima Pawar
+P00685,PROP-100684,Cedar Enclave,L010,Independent House,1735,0,19864808.0,11449.46,New Launch,Rented,4,Clubhouse,Co-operative,Aman Kumar,Vikram Tiwari
+P00686,PROP-100685,Lake Enclave,L004,Villa,2043,20,15023731.0,7353.76,Ready to Move,Under Construction,2,Lift,Co-operative,Shivani Pillai,Akash Kumar
+P00687,PROP-100686,Green Residency,L002,Independent House,1272,2,25157378.0,19777.81,Ready to Move,Rented,2,Security,Leasehold,Anushka Iyer,Mansi Tiwari
+P00688,PROP-100687,River Homes,L003,Plot,2174,5,29240849.0,13450.25,Resale,Available,2,Pool,Freehold,Abhishek Iyer,Shreya Dubey
+P00689,PROP-100688,Orchid Heights,L003,Apartment,860,10,10464554.0,12168.09,Under Construction,Rented,3,Garden,Freehold,Akash Kashyap,Aman Tripathi
+P00690,PROP-100689,Hill Gardens,L009,Apartment,1374,15,17287529.0,12581.9,Ready to Move,Available,1,Clubhouse,Co-operative,Anjali Mehta,Ritu Agarwal
+P00691,PROP-100690,Hill Enclave,L011,Apartment,704,30,8572875.0,12177.38,Ready to Move,Sold,5,Clubhouse,Leasehold,Aman Tiwari,Mansi Sethi
+P00692,PROP-100691,Palm Enclave,L010,Commercial,1671,8,37819728.0,22632.99,Ready to Move,Rented,1,Clubhouse,Leasehold,Rakesh Reddy,Dev Desai
+P00693,PROP-100692,River Plaza,L010,Commercial,1886,30,31024720.0,16450.01,Ready to Move,Available,1,Lift,Leasehold,Sanjay Kohli,Harsh Nair
+P00694,PROP-100693,Sunrise Residency,L007,Plot,1894,2,26426229.0,13952.6,Resale,Available,5,Clubhouse,Freehold,Mansi Kohli,Payal Shah
+P00695,PROP-100694,Hill Plaza,L001,Apartment,1514,25,5943801.0,3925.89,Ready to Move,Available,2,Pool,Leasehold,Omar Joshi,Dev Agarwal
+P00696,PROP-100695,Silver Homes,L012,Apartment,728,15,9670389.0,13283.5,Ready to Move,Available,1,Security,Freehold,Chirag Shetty,Ira Negi
+P00697,PROP-100696,Cedar Homes,L008,Independent House,2451,15,38378821.0,15658.43,Ready to Move,Rented,4,Garden,Freehold,Mansi Sinha,Riya Das
+P00698,PROP-100697,Orchid Plaza,L011,Apartment,870,25,9271178.0,10656.53,Ready to Move,Under Construction,2,Garden,Freehold,Ayesha Mishra,Karthik Bisht
+P00699,PROP-100698,Cedar Residency,L008,Apartment,460,1,6277434.0,13646.6,Ready to Move,Available,4,Security,Freehold,Naveen Reddy,Juhi Agarwal
+P00700,PROP-100699,Orchid Homes,L011,Apartment,1274,0,10514759.0,8253.34,New Launch,Available,4,Clubhouse,Co-operative,Omar Negi,Fatima Gupta
+P00701,PROP-100700,Green Enclave,L006,Apartment,1891,1,12442018.0,6579.6,Ready to Move,Rented,4,Clubhouse,Freehold,Imran Arora,Simran Gupta
+P00702,PROP-100701,Palm Homes,L007,Independent House,2251,20,25736379.0,11433.31,Under Construction,Available,4,Clubhouse,Co-operative,Saurabh Bansal,Ira Joshi
+P00703,PROP-100702,Palm Heights,L005,Independent House,1141,20,8126052.0,7121.87,Ready to Move,Available,1,Pool,Co-operative,Ankit Kohli,Yamini Menon
+P00704,PROP-100703,Lake Enclave,L010,Independent House,1619,20,7741381.0,4781.58,Ready to Move,Rented,3,Parking,Co-operative,Monika Verma,Harsh Thakur
+P00705,PROP-100704,Orchid Residency,L007,Apartment,581,30,4592256.0,7904.06,Ready to Move,Available,4,Gym,Freehold,Farhan Malhotra,Reyansh Shah
+P00706,PROP-100705,Green Enclave,L002,Apartment,1052,30,8765554.0,8332.28,Under Construction,Available,5,Pool,Co-operative,Madhav Kashyap,Mansi Kumar
+P00707,PROP-100706,Lake Enclave,L003,Apartment,1715,3,18808912.0,10967.3,Under Construction,Available,2,Garden,Co-operative,Madhav Shah,Pallavi Sharma
+P00708,PROP-100707,Sunrise Heights,L003,Plot,2358,25,33665568.0,14277.17,Under Construction,Available,4,Lift,Freehold,Omar Kohli,Priya Reddy
+P00709,PROP-100708,Palm Plaza,L012,Apartment,1366,5,12955503.0,9484.26,Ready to Move,Under Construction,4,Lift,Leasehold,Divya Pandey,Aditya Sinha
+P00710,PROP-100709,Lake Enclave,L012,Plot,772,20,5352224.0,6932.93,Ready to Move,Available,5,Parking,Leasehold,Lakshmi Reddy,Isha Mehta
+P00711,PROP-100710,Cedar Plaza,L012,Commercial,1488,1,30758779.0,20671.22,Ready to Move,Rented,3,Garden,Leasehold,Monika Bose,Mansi Bose
+P00712,PROP-100711,Hill Heights,L009,Independent House,1845,20,16034945.0,8691.03,Resale,Available,1,Parking,Leasehold,Akash Rawat,Ankit Mehta
+P00713,PROP-100712,Green Homes,L010,Apartment,884,15,3131977.0,3542.96,Ready to Move,Available,2,Lift,Freehold,Amit Bisht,Nikhil Tiwari
+P00714,PROP-100713,Hill Homes,L007,Independent House,1480,2,23096587.0,15605.8,Ready to Move,Available,3,Lift,Leasehold,Parth Nair,Naveen Yadav
+P00715,PROP-100714,Silver Heights,L007,Apartment,1407,15,21402455.0,15211.41,Resale,Available,3,Security,Freehold,Manish Jain,Bhavna Mehta
+P00716,PROP-100715,Maple Heights,L008,Villa,1534,3,12437065.0,8107.6,Resale,Available,1,Pool,Leasehold,Vivek Tripathi,Varun Banerjee
+P00717,PROP-100716,Maple Gardens,L011,Plot,1933,1,9355766.0,4840.02,Ready to Move,Rented,3,Parking,Leasehold,Shalini Nair,Ibrahim Banerjee
+P00718,PROP-100717,Palm Plaza,L010,Commercial,1513,3,14546322.0,9614.22,Ready to Move,Sold,5,Garden,Co-operative,Dev Joshi,Farhan Arora
+P00719,PROP-100718,Green Heights,L004,Apartment,708,5,8772548.0,12390.6,Resale,Rented,5,Clubhouse,Leasehold,Suresh Sharma,Mansi Chatterjee
+P00720,PROP-100719,Cedar Residency,L003,Apartment,1100,30,5102621.0,4638.75,Under Construction,Sold,1,Gym,Co-operative,Yamini Pawar,Ayesha Chatterjee
+P00721,PROP-100720,Cedar Plaza,L008,Commercial,1770,8,37810023.0,21361.59,Resale,Available,2,Pool,Co-operative,Radhika Bisht,Aarav Dubey
+P00722,PROP-100721,Silver Gardens,L010,Independent House,2008,30,6522576.0,3248.29,Under Construction,Available,3,Lift,Freehold,Riya Verma,Arjun Pillai
+P00723,PROP-100722,Orchid Gardens,L009,Apartment,826,8,8578817.0,10385.98,Ready to Move,Available,2,Parking,Leasehold,Nikhil Kulkarni,Payal Mukherjee
+P00724,PROP-100723,Sunrise Gardens,L005,Apartment,1209,3,21318391.0,17633.08,New Launch,Available,5,Clubhouse,Freehold,Rajesh Negi,Ishaan Agarwal
+P00725,PROP-100724,Green Heights,L001,Apartment,2127,8,13354856.0,6278.73,Resale,Available,5,Parking,Co-operative,Dev Negi,Farhan Bisht
+P00726,PROP-100725,Lake Enclave,L008,Apartment,1537,1,30781578.0,20027.05,Ready to Move,Sold,5,Clubhouse,Leasehold,Siddharth Pawar,Karthik Sinha
+P00727,PROP-100726,Silver Homes,L012,Apartment,1532,5,17043810.0,11125.2,Under Construction,Rented,3,Lift,Leasehold,Payal Bisht,Ritika Chopra
+P00728,PROP-100727,Green Enclave,L011,Villa,2073,15,14586685.0,7036.51,Resale,Under Construction,4,Gym,Co-operative,Harsh Rao,Meera Iyer
+P00729,PROP-100728,Maple Residency,L004,Apartment,1216,30,5949680.0,4892.83,Resale,Rented,5,Security,Freehold,Isha Pawar,Saurabh Dubey
+P00730,PROP-100729,Sunrise Gardens,L002,Apartment,2541,3,17851112.0,7025.23,Resale,Available,3,Security,Freehold,Radhika Malhotra,Aarav Ghosh
+P00731,PROP-100730,Palm Gardens,L008,Apartment,960,1,4974145.0,5181.4,New Launch,Rented,4,Clubhouse,Leasehold,Vikram Patel,Amit Negi
+P00732,PROP-100731,Green Gardens,L011,Apartment,1113,20,5089656.0,4572.92,Ready to Move,Available,4,Parking,Co-operative,Ishaan Malhotra,Priya Kumar
+P00733,PROP-100732,Hill Gardens,L003,Apartment,1738,15,10881076.0,6260.69,Under Construction,Under Construction,1,Pool,Freehold,Anushka Nair,Zoya Khanna
+P00734,PROP-100733,Maple Heights,L002,Villa,1141,10,8552109.0,7495.27,Under Construction,Available,1,Clubhouse,Co-operative,Pooja Bhatia,Vikram Mehta
+P00735,PROP-100734,Hill Plaza,L012,Villa,2175,5,18265641.0,8398.0,Ready to Move,Under Construction,5,Garden,Freehold,Lakshmi Iyer,Siddharth Malhotra
+P00736,PROP-100735,Green Plaza,L001,Apartment,887,20,7295626.0,8225.06,New Launch,Available,3,Garden,Co-operative,Rajesh Banerjee,Madhav Rao
+P00737,PROP-100736,Hill Plaza,L003,Villa,1824,15,15406582.0,8446.59,Ready to Move,Available,5,Lift,Leasehold,Sanjay Menon,Mohit Thakur
+P00738,PROP-100737,Orchid Residency,L009,Villa,1798,0,22063187.0,12270.96,Resale,Sold,4,Clubhouse,Leasehold,Aditi Sethi,Lakshmi Rao
+P00739,PROP-100738,Hill Plaza,L003,Villa,2423,15,42410612.0,17503.35,Ready to Move,Available,1,Gym,Leasehold,Anushka Bansal,Samar Kapoor
+P00740,PROP-100739,Maple Gardens,L011,Commercial,1966,25,31184335.0,15861.82,Ready to Move,Available,2,Garden,Leasehold,Arjun Desai,Riya Gupta
+P00741,PROP-100740,River Enclave,L001,Commercial,2848,10,21236155.0,7456.52,Ready to Move,Under Construction,5,Gym,Freehold,Pranav Sharma,Radhika Mishra
+P00742,PROP-100741,Orchid Plaza,L004,Apartment,1832,10,23703416.0,12938.55,New Launch,Rented,2,Clubhouse,Leasehold,Aditya Gupta,Manish Menon
+P00743,PROP-100742,Cedar Gardens,L004,Villa,1470,25,12164235.0,8274.99,Ready to Move,Available,2,Gym,Freehold,Shreya Gupta,Vivaan Gupta
+P00744,PROP-100743,Orchid Enclave,L009,Apartment,867,8,3129035.0,3609.04,Resale,Available,2,Parking,Co-operative,Isha Sharma,Tanvi Rawat
+P00745,PROP-100744,Lake Residency,L006,Apartment,1058,8,10941986.0,10342.14,Ready to Move,Available,2,Clubhouse,Leasehold,Tanvi Sethi,Chirag Tiwari
+P00746,PROP-100745,Orchid Enclave,L006,Independent House,915,10,11190839.0,12230.42,Ready to Move,Available,3,Clubhouse,Leasehold,Ritu Khanna,Akash Jain
+P00747,PROP-100746,Hill Heights,L009,Plot,1836,25,6742814.0,3672.56,Ready to Move,Available,1,Parking,Co-operative,Radhika Pandey,Ananya Chatterjee
+P00748,PROP-100747,Lake Residency,L003,Villa,1747,2,16815490.0,9625.35,Ready to Move,Available,5,Security,Leasehold,Sakshi Bisht,Sneha Joshi
+P00749,PROP-100748,Palm Residency,L001,Apartment,1294,1,18425974.0,14239.55,New Launch,Under Construction,4,Lift,Leasehold,Meera Saxena,Fatima Banerjee
+P00750,PROP-100749,Orchid Plaza,L010,Apartment,996,10,5289246.0,5310.49,Ready to Move,Sold,4,Clubhouse,Leasehold,Kavya Sethi,Aarav Saxena
+P00751,PROP-100750,Lake Residency,L009,Independent House,2372,3,22118780.0,9324.95,Ready to Move,Available,1,Pool,Freehold,Fatima Rawat,Naveen Sinha
+P00752,PROP-100751,Hill Plaza,L012,Plot,1319,3,8384962.0,6357.06,Ready to Move,Available,3,Security,Leasehold,Nitin Bisht,Riya Agarwal
+P00753,PROP-100752,Palm Gardens,L005,Apartment,1311,15,6782047.0,5173.19,Under Construction,Under Construction,4,Garden,Co-operative,Kabir Tiwari,Rajesh Agarwal
+P00754,PROP-100753,Silver Plaza,L003,Commercial,2091,15,35204486.0,16836.2,Resale,Available,1,Lift,Co-operative,Akash Thakur,Simran Bisht
+P00755,PROP-100754,Sunrise Plaza,L002,Commercial,1203,1,12530764.0,10416.26,Resale,Under Construction,3,Gym,Co-operative,Mansi Chauhan,Sneha Kohli
+P00756,PROP-100755,Orchid Homes,L007,Apartment,1475,0,27125039.0,18389.86,Ready to Move,Available,3,Pool,Leasehold,Samar Thakur,Ibrahim Kapoor
+P00757,PROP-100756,Silver Heights,L010,Apartment,1011,0,6241432.0,6173.52,Resale,Available,5,Garden,Co-operative,Aman Shah,Ayesha Jain
+P00758,PROP-100757,Lake Homes,L010,Apartment,1305,15,12818327.0,9822.47,Under Construction,Rented,1,Parking,Leasehold,Bhavna Desai,Mohit Verma
+P00759,PROP-100758,Green Plaza,L012,Independent House,1995,10,15959326.0,7999.66,Resale,Available,3,Lift,Co-operative,Shivani Rawat,Anjali Negi
+P00760,PROP-100759,Green Plaza,L006,Apartment,1097,2,7347500.0,6697.81,Under Construction,Sold,1,Pool,Co-operative,Farhan Iyer,Ankit Chauhan
+P00761,PROP-100760,Lake Heights,L005,Villa,1488,5,28097145.0,18882.49,Ready to Move,Rented,4,Security,Leasehold,Arjun Kumar,Meera Verma
+P00762,PROP-100761,Hill Heights,L011,Apartment,1883,3,18556590.0,9854.8,Ready to Move,Available,4,Lift,Freehold,Aarohi Thakur,Sakshi Rao
+P00763,PROP-100762,Silver Residency,L009,Independent House,2345,10,27362453.0,11668.42,Ready to Move,Rented,4,Gym,Freehold,Amit Ghosh,Varun Yadav
+P00764,PROP-100763,Cedar Homes,L010,Commercial,2004,3,12379027.0,6177.16,Resale,Under Construction,1,Security,Freehold,Pranav Saxena,Parth Bhatia
+P00765,PROP-100764,Cedar Gardens,L006,Independent House,1814,2,12651277.0,6974.24,Resale,Under Construction,1,Gym,Co-operative,Naveen Bhatia,Monika Kumar
+P00766,PROP-100765,Silver Homes,L009,Independent House,1973,25,19589050.0,9928.56,Ready to Move,Available,4,Parking,Freehold,Nandini Bose,Ibrahim Bansal
+P00767,PROP-100766,Orchid Enclave,L012,Apartment,1321,5,11175208.0,8459.66,Ready to Move,Rented,3,Gym,Co-operative,Siddharth Agarwal,Anirudh Sharma
+P00768,PROP-100767,Orchid Enclave,L002,Independent House,1971,5,11573931.0,5872.11,New Launch,Sold,4,Lift,Freehold,Rakesh Ghosh,Ibrahim Chatterjee
+P00769,PROP-100768,Green Plaza,L010,Apartment,1050,8,15912495.0,15154.76,Ready to Move,Rented,3,Lift,Freehold,Nikhil Negi,Shivani Negi
+P00770,PROP-100769,Green Enclave,L009,Independent House,2324,10,24089226.0,10365.42,New Launch,Sold,4,Security,Freehold,Kabir Shetty,Ira Sethi
+P00771,PROP-100770,Silver Heights,L007,Commercial,1880,2,32516796.0,17296.17,Resale,Rented,1,Security,Freehold,Tara Thakur,Isha Rawat
+P00772,PROP-100771,Silver Residency,L004,Apartment,1160,25,3694718.0,3185.1,Ready to Move,Rented,2,Garden,Freehold,Radhika Arora,Aanya Joshi
+P00773,PROP-100772,Green Homes,L002,Villa,1647,0,7494952.0,4550.67,Resale,Rented,1,Garden,Freehold,Vivaan Ghosh,Isha Shah
+P00774,PROP-100773,Sunrise Plaza,L003,Apartment,1339,10,9412772.0,7029.7,Ready to Move,Under Construction,1,Lift,Co-operative,Monika Rao,Kavya Bisht
+P00775,PROP-100774,Lake Homes,L006,Apartment,1431,30,15285848.0,10681.93,Ready to Move,Under Construction,3,Lift,Freehold,Arjun Mukherjee,Vivaan Nair
+P00776,PROP-100775,Sunrise Heights,L001,Apartment,1717,0,15862908.0,9238.73,Under Construction,Sold,5,Lift,Co-operative,Fatima Agarwal,Aditi Pandey
+P00777,PROP-100776,Silver Gardens,L005,Apartment,1524,8,21320640.0,13989.92,Ready to Move,Rented,2,Parking,Leasehold,Ishaan Patel,Rajesh Kumar
+P00778,PROP-100777,Cedar Plaza,L001,Apartment,1103,5,10391349.0,9420.99,Ready to Move,Rented,3,Parking,Co-operative,Tanvi Das,Rohan Arora
+P00779,PROP-100778,Hill Homes,L009,Apartment,1133,15,8013522.0,7072.83,Ready to Move,Rented,4,Pool,Leasehold,Ayesha Desai,Juhi Gupta
+P00780,PROP-100779,River Enclave,L008,Apartment,878,15,15078304.0,17173.47,Under Construction,Sold,2,Pool,Freehold,Siddharth Chauhan,Diya Mukherjee
+P00781,PROP-100780,Silver Heights,L011,Apartment,1478,15,20951283.0,14175.43,Ready to Move,Sold,4,Clubhouse,Co-operative,Naveen Patel,Kunal Rawat
+P00782,PROP-100781,Silver Enclave,L003,Apartment,1322,8,12631678.0,9554.98,Ready to Move,Available,3,Garden,Freehold,Sneha Mehta,Rakesh Desai
+P00783,PROP-100782,Lake Plaza,L011,Apartment,954,30,10865261.0,11389.16,Under Construction,Available,2,Gym,Freehold,Ira Mishra,Naveen Rao
+P00784,PROP-100783,Orchid Plaza,L001,Plot,2000,25,8320524.0,4160.26,Under Construction,Sold,5,Clubhouse,Leasehold,Ayesha Reddy,Naveen Pawar
+P00785,PROP-100784,River Enclave,L011,Plot,1536,15,21480157.0,13984.48,Resale,Available,2,Security,Leasehold,Nitin Khanna,Rakesh Menon
+P00786,PROP-100785,River Plaza,L007,Plot,1495,5,10970724.0,7338.28,Ready to Move,Sold,5,Gym,Co-operative,Rahul Jain,Ankit Kumar
+P00787,PROP-100786,Hill Enclave,L004,Apartment,350,15,5314488.0,15184.25,Resale,Rented,4,Gym,Freehold,Nisha Saxena,Vikram Shah
+P00788,PROP-100787,Maple Residency,L012,Independent House,2276,10,10525037.0,4624.36,Resale,Rented,5,Clubhouse,Leasehold,Shweta Kohli,Aarohi Kulkarni
+P00789,PROP-100788,Palm Heights,L001,Commercial,1384,5,10160722.0,7341.56,Under Construction,Rented,5,Security,Leasehold,Yamini Chauhan,Aditya Joshi
+P00790,PROP-100789,Lake Heights,L008,Commercial,1181,1,21374977.0,18099.05,New Launch,Available,2,Security,Freehold,Ibrahim Arora,Mohit Sharma
+P00791,PROP-100790,Orchid Enclave,L010,Apartment,1300,8,11959057.0,9199.27,Ready to Move,Rented,2,Security,Co-operative,Tanvi Mehta,Vivek Mehta
+P00792,PROP-100791,Cedar Gardens,L006,Villa,1257,1,6638403.0,5281.15,Ready to Move,Available,4,Garden,Freehold,Naveen Shetty,Amit Gupta
+P00793,PROP-100792,Silver Gardens,L011,Apartment,886,1,6339285.0,7154.95,Ready to Move,Rented,4,Gym,Leasehold,Aarohi Bose,Riya Sethi
+P00794,PROP-100793,Hill Enclave,L010,Independent House,1402,0,15426070.0,11002.9,Under Construction,Sold,3,Lift,Co-operative,Sneha Kapoor,Rahul Mehta
+P00795,PROP-100794,Orchid Plaza,L005,Apartment,1563,3,19904269.0,12734.66,Ready to Move,Under Construction,3,Clubhouse,Freehold,Siddharth Verma,Suresh Negi
+P00796,PROP-100795,Lake Heights,L009,Villa,1390,2,8830872.0,6353.15,Ready to Move,Available,4,Parking,Leasehold,Karthik Sharma,Imran Negi
+P00797,PROP-100796,Palm Gardens,L002,Apartment,520,3,8734577.0,16797.26,Ready to Move,Rented,5,Lift,Freehold,Aarohi Khanna,Aman Saxena
+P00798,PROP-100797,Green Heights,L007,Apartment,1624,1,19934677.0,12275.05,Under Construction,Available,1,Lift,Co-operative,Abhishek Banerjee,Vikram Sethi
+P00799,PROP-100798,Cedar Enclave,L010,Apartment,2088,10,24097049.0,11540.73,New Launch,Rented,4,Gym,Freehold,Anushka Sharma,Anushka Patel
+P00800,PROP-100799,Palm Plaza,L011,Independent House,1459,8,19993980.0,13703.89,New Launch,Available,1,Security,Freehold,Pallavi Dubey,Shivani Mishra
+P00801,PROP-100800,Hill Homes,L004,Apartment,2143,10,16466231.0,7683.73,Ready to Move,Under Construction,2,Security,Co-operative,Reyansh Bansal,Amit Pandey
+P00802,PROP-100801,Maple Enclave,L009,Commercial,1841,5,42649357.0,23166.41,Ready to Move,Sold,1,Clubhouse,Freehold,Aanya Kumar,Reyansh Thakur
+P00803,PROP-100802,Orchid Plaza,L010,Independent House,1805,1,10859109.0,6016.13,New Launch,Available,4,Gym,Leasehold,Tara Chatterjee,Tanvi Negi
+P00804,PROP-100803,Green Homes,L003,Apartment,1544,3,8369885.0,5420.91,Ready to Move,Available,4,Pool,Leasehold,Pooja Kashyap,Shalini Rao
+P00805,PROP-100804,Hill Gardens,L008,Independent House,1852,10,26751455.0,14444.63,Resale,Sold,3,Security,Freehold,Sanjay Arora,Nikhil Kohli
+P00806,PROP-100805,Palm Homes,L002,Apartment,1589,10,26179876.0,16475.69,Ready to Move,Rented,4,Clubhouse,Freehold,Ankit Yadav,Kabir Singh
+P00807,PROP-100806,Green Gardens,L002,Plot,1963,20,27966108.0,14246.62,Ready to Move,Available,4,Lift,Leasehold,Aarohi Pawar,Zoya Jain
+P00808,PROP-100807,Silver Gardens,L003,Apartment,1513,8,25722357.0,17000.9,Ready to Move,Sold,2,Lift,Freehold,Pallavi Menon,Yash Saxena
+P00809,PROP-100808,Green Homes,L005,Apartment,463,20,7969739.0,17213.26,New Launch,Rented,2,Pool,Freehold,Aarohi Tiwari,Simran Chatterjee
+P00810,PROP-100809,Hill Enclave,L008,Plot,1692,1,18137516.0,10719.57,Under Construction,Under Construction,3,Parking,Leasehold,Shweta Mishra,Ayesha Bose
+P00811,PROP-100810,Cedar Gardens,L006,Plot,2060,25,21386620.0,10381.85,Ready to Move,Available,3,Pool,Leasehold,Vivek Nair,Aanya Kashyap
+P00812,PROP-100811,Silver Residency,L007,Plot,1247,0,8918011.0,7151.57,Ready to Move,Sold,1,Security,Co-operative,Ritika Bose,Meera Bisht
+P00813,PROP-100812,Maple Heights,L003,Independent House,2010,25,32535843.0,16186.99,Ready to Move,Under Construction,3,Pool,Freehold,Anirudh Pandey,Mohit Reddy
+P00814,PROP-100813,Hill Plaza,L006,Independent House,1469,5,20707999.0,14096.66,New Launch,Available,4,Security,Co-operative,Gaurav Dubey,Zoya Chatterjee
+P00815,PROP-100814,Sunrise Residency,L002,Independent House,1886,30,27289187.0,14469.35,Ready to Move,Available,5,Garden,Freehold,Isha Chopra,Juhi Pandey
+P00816,PROP-100815,Green Residency,L005,Apartment,1135,10,8969460.0,7902.61,Ready to Move,Available,1,Clubhouse,Co-operative,Deepak Shah,Imran Sethi
+P00817,PROP-100816,Silver Gardens,L011,Villa,2112,5,24033526.0,11379.51,Resale,Rented,5,Gym,Co-operative,Ananya Verma,Nisha Sinha
+P00818,PROP-100817,Silver Heights,L004,Apartment,750,0,6893800.0,9191.73,Under Construction,Available,1,Clubhouse,Leasehold,Ishaan Arora,Gaurav Patel
+P00819,PROP-100818,Palm Heights,L012,Independent House,1394,3,5946951.0,4266.11,Under Construction,Available,2,Security,Co-operative,Omar Desai,Rakesh Chopra
+P00820,PROP-100819,Silver Homes,L009,Apartment,1482,8,5610100.0,3785.49,Ready to Move,Under Construction,1,Pool,Co-operative,Farhan Patel,Deepak Kohli
+P00821,PROP-100820,Palm Heights,L009,Apartment,1034,5,11071526.0,10707.47,Resale,Rented,4,Pool,Co-operative,Madhav Pandey,Kavya Chatterjee
+P00822,PROP-100821,Sunrise Residency,L002,Independent House,1743,1,26519537.0,15214.88,Ready to Move,Available,4,Pool,Leasehold,Samar Chatterjee,Gaurav Sharma
+P00823,PROP-100822,Lake Residency,L005,Villa,1877,1,41126808.0,21910.93,Ready to Move,Available,3,Parking,Leasehold,Yash Pillai,Varun Shetty
+P00824,PROP-100823,Green Residency,L007,Plot,1952,25,25014592.0,12814.85,Under Construction,Under Construction,2,Garden,Leasehold,Mansi Khanna,Rohan Chatterjee
+P00825,PROP-100824,Lake Heights,L012,Villa,1655,10,4919234.0,2972.35,Ready to Move,Sold,5,Security,Co-operative,Reyansh Mukherjee,Rahul Joshi
+P00826,PROP-100825,Maple Heights,L006,Apartment,1223,8,14356826.0,11739.02,Ready to Move,Rented,3,Parking,Freehold,Parth Tripathi,Vivaan Bansal
+P00827,PROP-100826,Hill Plaza,L007,Apartment,747,0,9246218.0,12377.8,Resale,Available,1,Pool,Freehold,Aanya Chauhan,Isha Reddy
+P00828,PROP-100827,Green Enclave,L010,Apartment,1667,15,21628453.0,12974.48,Resale,Under Construction,2,Garden,Freehold,Sneha Tiwari,Saurabh Arora
+P00829,PROP-100828,Maple Gardens,L003,Independent House,2129,0,8449312.0,3968.68,Ready to Move,Rented,4,Lift,Freehold,Saurabh Negi,Sanjay Rawat
+P00830,PROP-100829,Cedar Plaza,L008,Apartment,1510,20,24632714.0,16313.06,Ready to Move,Available,1,Lift,Leasehold,Naveen Sharma,Ayesha Arora
+P00831,PROP-100830,Green Residency,L007,Apartment,939,0,14186942.0,15108.56,New Launch,Available,5,Gym,Co-operative,Pallavi Das,Saurabh Kapoor
+P00832,PROP-100831,Silver Plaza,L004,Independent House,1923,10,21108444.0,10976.83,Ready to Move,Under Construction,2,Pool,Freehold,Anjali Menon,Chirag Pillai
+P00833,PROP-100832,Maple Enclave,L010,Apartment,1383,10,20753229.0,15005.95,New Launch,Under Construction,4,Gym,Co-operative,Anushka Pandey,Simran Malhotra
+P00834,PROP-100833,Palm Residency,L007,Apartment,1532,25,20676748.0,13496.57,New Launch,Available,1,Lift,Leasehold,Chirag Reddy,Kavya Ghosh
+P00835,PROP-100834,Sunrise Plaza,L010,Independent House,2299,30,15390678.0,6694.51,Ready to Move,Under Construction,5,Pool,Leasehold,Fatima Yadav,Sara Reddy
+P00836,PROP-100835,Green Homes,L002,Independent House,2500,3,24118527.0,9647.41,Under Construction,Sold,2,Security,Co-operative,Dev Tripathi,Payal Pandey
+P00837,PROP-100836,River Gardens,L008,Independent House,1946,1,14846836.0,7629.41,Ready to Move,Rented,1,Security,Freehold,Ankit Banerjee,Omar Malhotra
+P00838,PROP-100837,Maple Heights,L010,Commercial,1820,2,31315548.0,17206.35,Ready to Move,Rented,1,Security,Freehold,Rajesh Yadav,Yamini Desai
+P00839,PROP-100838,Green Heights,L012,Plot,2525,5,17253983.0,6833.26,New Launch,Available,2,Lift,Co-operative,Karthik Shetty,Ritika Jain
+P00840,PROP-100839,Orchid Residency,L011,Apartment,1410,1,9560737.0,6780.66,Ready to Move,Available,5,Security,Freehold,Kunal Arora,Nisha Dubey
+P00841,PROP-100840,River Gardens,L011,Independent House,1798,3,24681723.0,13727.32,Under Construction,Available,4,Security,Co-operative,Samar Tiwari,Isha Saxena
+P00842,PROP-100841,Maple Enclave,L011,Apartment,1555,10,13972706.0,8985.66,Under Construction,Under Construction,2,Security,Leasehold,Monika Khanna,Ishaan Verma
+P00843,PROP-100842,Green Gardens,L007,Villa,2007,20,13196013.0,6574.99,New Launch,Available,2,Security,Leasehold,Monika Arora,Ritika Agarwal
+P00844,PROP-100843,Cedar Enclave,L008,Apartment,2423,5,24107282.0,9949.35,Ready to Move,Available,1,Security,Leasehold,Nisha Arora,Simran Patel
+P00845,PROP-100844,Silver Enclave,L008,Independent House,2817,3,33612531.0,11932.03,Resale,Sold,4,Security,Leasehold,Reyansh Nair,Tara Rawat
+P00846,PROP-100845,Palm Homes,L009,Commercial,1651,20,15063168.0,9123.66,Ready to Move,Available,3,Pool,Freehold,Pallavi Saxena,Madhav Iyer
+P00847,PROP-100846,Cedar Residency,L009,Villa,2674,5,25900235.0,9685.95,New Launch,Available,2,Pool,Freehold,Manish Rawat,Mansi Bansal
+P00848,PROP-100847,River Heights,L007,Apartment,990,1,9843124.0,9942.55,Under Construction,Under Construction,2,Lift,Leasehold,Aarav Pillai,Ibrahim Negi
+P00849,PROP-100848,Sunrise Residency,L011,Apartment,2096,10,16095130.0,7678.97,Ready to Move,Available,5,Security,Leasehold,Ritika Singh,Anjali Chopra
+P00850,PROP-100849,Orchid Residency,L007,Independent House,2344,15,32461336.0,13848.69,Under Construction,Under Construction,1,Clubhouse,Freehold,Manish Sharma,Karthik Saxena
